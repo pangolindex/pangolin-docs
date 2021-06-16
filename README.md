@@ -62,7 +62,7 @@ Once you have translated all the values in the JSON file, you can follow the ste
 
 1. Create a Github account
 2. Go to [https://github.com/pangolin-community/interface/blob/master/public/locales](https://github.com/pangolin-community/interface/blob/master/public/locales) and select the file you have translated.
-3. In the screen that shows up, click on the Pencil icon to **Edit the file in your fork of this project**: ![](forkedit.jpg)
+3. In the screen that shows up, click on the Pencil icon to **Edit the file in your fork of this project**: 
 4. A new window will open with an editor. You can use it replace the content of the file with that of your translation.
 5. When you are done, navigate to the bottom of the page. If your email is not public in your Github profile or you would like to be contacted some other way if you were to win, you can tell us how to contact you in the **Add an optional extended description...** field. Feel free to add other comments if you need to.
 6. Once everything is ready click on **Propose changes**: ![](proposechanges.jpg)
