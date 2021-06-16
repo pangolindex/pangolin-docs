@@ -1,2 +1,2 @@
-# Initial page
+# Pangolin Localization Community Event
 
