@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Pangolin Localization Community Event](README.md)
+* [Adding a new token](README.md)
 
