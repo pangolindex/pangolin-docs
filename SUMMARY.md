@@ -16,4 +16,5 @@
   * [The Avalanche Bridge](avalanche-guides/the-avalanche-bridge.md)
   * [Bridge Tokens](avalanche-guides/bridge-tokens.md)
 * [Find Pangolin \(PNG\)](find-pangolin-png.md)
+* [Developer Documention](developer-documention.md)
 
