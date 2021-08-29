@@ -42,7 +42,7 @@ Liquidity providers **earn a 0.3% fee** on **all trades** proportional to their 
 
 {% embed url="https://app.pangolin.exchange/\#/png/1" %}
 
-## Analytics 📊 Pangolin Protocol Analytics
+## Analytics 📊 
 
 {% embed url="https://info.pangolin.exchange/\#/home" %}
 
