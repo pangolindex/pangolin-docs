@@ -24,7 +24,7 @@ Pangolin is a decentralized exchange \(DEX\) which runs on Avalanche, uses the s
 
 Buy **$AVAX** with fiat \(29 currencies supported\) from our partner **Wyre**. 
 
-{% hint style="success" %}
+{% hint style="info" %}
 Pangolin does not store your purchase history or any personal data!
 {% endhint %}
 
