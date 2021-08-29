@@ -30,7 +30,7 @@ Transaction deadline: set a time limit for the transaction to be fulfilled, othe
 
 ### Toggle
 
-**Expert Mode** \[Not Recommended\]: can be set to allow unlimited slippage.
+**Expert Mode** \[Not Recommended\]: can be set to allow unlimited slippage
 
-**Dark Mode**: set Pangolin to light or dark mode.
+**Color Mode**: set Pangolin to light or dark mode
 
