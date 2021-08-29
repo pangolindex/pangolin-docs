@@ -50,7 +50,7 @@ You have now successfully added the Avalanche Network RPC.
 
 ### 6. Enter the following information into the available fields:
 
-Token Contract Address: 
+**PNG** Token Contract Address: 
 
 ```text
 0x60781C2586D68229fde47564546784ab3fACA98

@@ -18,7 +18,7 @@ Pangolin is a decentralized exchange \(DEX\) which runs on Avalanche, uses the s
 
 ## **Trade**
 
-[https://app.pangolin.exchange/\#/swap](https://app.pangolin.exchange/#/swap) 
+{% embed url="https://app.pangolin.exchange/\#/swap" %}
 
 ## Buy $AVAX on Pangolin with 💳![](.gitbook/assets/pay.png)![](.gitbook/assets/google-pay.png) 
 
@@ -28,33 +28,45 @@ Buy **$AVAX** with 29 supported currencies powered by Wyre.
 Pangolin does not store your purchase history or any personal data!
 {% endhint %}
 
-[https://app.pangolin.exchange/\#/buy](https://app.pangolin.exchange/#/buy) 
+{% embed url="https://app.pangolin.exchange/\#/buy" %}
+
+
 
 ## Stake Liquidity 🥩 
 
 Liquidity providers **earn a 0.3% fee** on **all trades** proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.
 
-[https://app.pangolin.exchange/\#/pool](https://app.pangolin.exchange/#/pool) 
+{% embed url="https://app.pangolin.exchange/\#/pool" %}
+
+
 
 ## Liquidity Mining ⛏ 
 
 **Deposit** your Pangolin Liquidity Provider **PGL** tokens to **receive PNG**, the Pangolin protocol governance token.
 
-[https://app.pangolin.exchange/\#/png/1](https://app.pangolin.exchange/#/png/1) 
+{% embed url="https://app.pangolin.exchange/\#/png/1" %}
+
+
 
 ## Analytics 📊 
 
 Pangolin Protocol Analytics
 
-[https://info.pangolin.exchange/\#/home](https://info.pangolin.exchange/#/home) 
+{% embed url="https://info.pangolin.exchange/\#/home" %}
+
+
 
 ## Governance / Vote 🗳 
 
 **PNG** tokens represent voting shares in Pangolin governance. You can vote on each proposal yourself or delegate your votes to a third party. To be eligible to vote, you **must hold PNG** in your wallet and delegate it at the start of voting. After voting has begun, you may pool or spend your PNG. Governance votes are decided by simple majority. There is no quorum threshold.
 
-[https://app.pangolin.exchange/\#/vote](https://app.pangolin.exchange/#/vote) 
+{% embed url="https://app.pangolin.exchange/\#/vote" %}
+
+
 
 ## Community Forum ℹ 
 
-[https://gov.pangolin.exchange/](https://gov.pangolin.exchange/) 
+{% embed url="https://gov.pangolin.exchange/" %}
+
+
 
