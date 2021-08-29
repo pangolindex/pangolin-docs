@@ -1,4 +1,19 @@
 # Table of contents
 
-* [Adding a new token](README.md)
+* [Introduction to Pangolin](README.md)
+* [Pangonomics](pangonomics.md)
+* [Getting started on Pangolin](getting-started-on-pangolin/README.md)
+  * [Trading](getting-started-on-pangolin/trading.md)
+  * [Buy with Credit Card](getting-started-on-pangolin/buy-with-credit-card.md)
+  * [Stake Liquidity](getting-started-on-pangolin/stake-liquidity.md)
+  * [Liquidity Mining](getting-started-on-pangolin/liquidity-mining.md)
+  * [Analytics](getting-started-on-pangolin/analytics.md)
+  * [Governance / Vote](getting-started-on-pangolin/governance-vote.md)
+  * [Community Forum](getting-started-on-pangolin/community-forum.md)
+* [Avalanche Guides](avalanche-guides/README.md)
+  * [Set Up MetaMask](avalanche-guides/set-up-metamask.md)
+  * [Fund Your MetaMask](avalanche-guides/fund-your-metamask.md)
+  * [The Avalanche Bridge](avalanche-guides/the-avalanche-bridge.md)
+  * [Bridge Tokens](avalanche-guides/bridge-tokens.md)
+* [Find Pangolin \(PNG\)](find-pangolin-png.md)
 
