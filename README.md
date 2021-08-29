@@ -30,15 +30,11 @@ Pangolin does not store your purchase history or any personal data!
 
 {% embed url="https://app.pangolin.exchange/\#/buy" %}
 
-
-
 ## Stake Liquidity 🥩 
 
 Liquidity providers **earn a 0.3% fee** on **all trades** proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.
 
 {% embed url="https://app.pangolin.exchange/\#/pool" %}
-
-
 
 ## Liquidity Mining ⛏ 
 
@@ -46,23 +42,15 @@ Liquidity providers **earn a 0.3% fee** on **all trades** proportional to their 
 
 {% embed url="https://app.pangolin.exchange/\#/png/1" %}
 
-
-
-## Analytics 📊 
-
-Pangolin Protocol Analytics
+## Analytics 📊 Pangolin Protocol Analytics
 
 {% embed url="https://info.pangolin.exchange/\#/home" %}
-
-
 
 ## Governance / Vote 🗳 
 
 **PNG** tokens represent voting shares in Pangolin governance. You can vote on each proposal yourself or delegate your votes to a third party. To be eligible to vote, you **must hold PNG** in your wallet and delegate it at the start of voting. After voting has begun, you may pool or spend your PNG. Governance votes are decided by simple majority. There is no quorum threshold.
 
 {% embed url="https://app.pangolin.exchange/\#/vote" %}
-
-
 
 ## Community Forum ℹ 
 
