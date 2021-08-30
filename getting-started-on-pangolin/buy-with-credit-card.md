@@ -4,7 +4,7 @@ description: Pangolin partnered with Wyre to enable CC payments and more
 
 # Buy with Credit Card
 
-## Buy $AVAX using a credit card💳![](../.gitbook/assets/pay.png) ![](../.gitbook/assets/google-pay.png) 
+## Buy $AVAX using a credit card💳![](../.gitbook/assets/pay.png) 
 
 1. Fill in your contact details, select a currency and enter an amount
 
