@@ -7,7 +7,7 @@ description: Learn the different ways how to add funds to your MetaMask
 ## Fund your MetaMask wallet with **$AVAX**
 
 {% hint style="info" %}
-MetaMask uses the Avalanche C-Chain - some CEXs like Bianca only have X-Chain support and your $AVAX has to be converted first!
+MetaMask uses the Avalanche C-Chain Mainnet - some CEXs only have X-Chain support and your $AVAX have to be converted first!
 {% endhint %}
 
 **Method 1:** Buy **$AVAX** on PangolinDEX with a credit card 💳![](../.gitbook/assets/pay.png) ****![](../.gitbook/assets/google-pay.png) 
