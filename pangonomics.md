@@ -32,29 +32,76 @@ The vesting schedule is Algorithmically specified as follows: starting from 256 
 
 The liquidity mining program starts on mainnet launch and will cover the following pools on Pangolin:
 
+{% hint style="success" %}
+List updated 08/30/2021
+{% endhint %}
+
 * **AVAX Pools**
 
-  * AVAX/ETH
-  * AVAX/USDT
-  * AVAX/WBTC
-  * AVAX/PNG
-  * AVAX/LINK
-  * AVAX/DAI
-  * AVAX/UNI
-  * AVAX/SUSHI
-  * AVAX/AAVE
-  * AVAX/YFI
+  * AVAX-PNG
+  * AVAX-WETH.e
+  * AVAX-USDT.e
+  * AVAX-DAI.e
+  * AVAX-WBTC.e
+  * AVAX-YAK
+  * AVAX-QI
+  * AVAX-LINK.e
+  * AVAX-XAVA
+  * AVAX-VSO
+  * AVAX-USDC.e
+  * AVAX-SUSHI.e
+  * AVAX-SPORE
+  * AVAX-WALBT
+  * AVAX-PEFI
+  * AVAX-SNOB
+  * AVAX-AAVE.e
+  * AVAX-SHIBX
+  * AVAX-UNI.e
+  * AVAX-GAJ
+  * AVAX-TRYB
+  * AVAX-MFI
+  * AVAX-LYD
+  * AVAX-AVE
+  * AVAX-SHERPA
+  * AVAX-DYP
+  * AVAX-ELE
+  * AVAX-BNB
+  * AVAX-YFI.e
+  * AVAX-HUSKY
+  * AVAX-BIFI
+  * AVAX-TUSD
 
 * **PNG Pools**
-  * PNG/ETH
-  * PNG/USDT
-  * PNG/WBTC
-  * PNG/LINK
-  * PNG/DAI
-  * PNG/UNI
-  * PNG/SUSHI
-  * PNG/AAVE
-  * PNG/YFI
+  * PNG-SNOB
+  * PNG-PEFI
+  * PNG-USDT.e
+  * PNG-WETH.e
+  * PNG-LINK.e
+  * PNG-QI
+  * PNG-VSO
+  * PNG-AAVE.e
+  * PNG-SHERPA
+  * PNG-WBTC.e
+  * PNG-DAI.e
+  * PNG-XAVA
+  * PNG-SUSHI.e
+  * PNG-MFI
+  * PNG-UNI.e
+  * PNG-USDC.e
+  * PNG-YAK
+  * PNG-BIFI
+  * PNG-ELE
+  * PNG-AVE
+  * PNG-BNB
+  * PNG-HUSKY
+  * PNG-YFI.e
+  * PNG-TUSD
+  * PNG-GAJ
+  * PNG-WALBT
+  * PNG-LYD
+  * PNG-DYP
+  * PNG-GDL
+  * PNG-SHIBX
 
 The **PNG** will be allocated per pool proportional to liquidity as calculated by the total **AVAX** value in the pool. In non-AVAX pools, the proportional liquidity is calculated by looking at the price of the base token in comparison to **AVAX**.
 
