@@ -15,7 +15,7 @@ MetaMask uses the Avalanche C-Chain Mainnet - some CEXs only have X-Chain suppor
 **Method 2:** Buy **$AVAX** on a centralized Exchange which supports the **C-Chain** and withdraw directly to your MetaMask wallet address 
 
 {% hint style="info" %}
-CEXs with C-Chain support: KuCoin, GateIO, OKEx, BitMart, BitFinex
+CEXs with C-Chain support: [KuCoin](https://trade.kucoin.com/AVAX-USDT), [GateIO](https://www.gate.io/tradepro/AVAX_USDT), [OKEx](https://www.okex.com/de/trade-spot/btc-usdt), [BitMart](https://www.bitmart.com/trade/en?layout=pro&symbol=AVAX_USDT), [BitFinex](https://trading.bitfinex.com/t/AVAX:UST)
 {% endhint %}
 
 **Method 3**: Buy **$AVAX** on a centralized Exchange 
