@@ -4,7 +4,7 @@
 * [Pangonomics](pangonomics.md)
 * [Getting started on Pangolin](getting-started-on-pangolin/README.md)
   * [Trading](getting-started-on-pangolin/trading.md)
-  * [Buy with Credit Card](getting-started-on-pangolin/buy-with-credit-card.md)
+  * [Buy with credit card](getting-started-on-pangolin/buy-with-credit-card.md)
   * [Stake Liquidity](getting-started-on-pangolin/stake-liquidity.md)
   * [Liquidity Mining](getting-started-on-pangolin/liquidity-mining.md)
   * [Analytics](getting-started-on-pangolin/analytics.md)
