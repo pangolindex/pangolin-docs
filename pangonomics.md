@@ -36,7 +36,7 @@ The liquidity mining program starts on mainnet launch and will cover the followi
 List updated 08/30/2021
 {% endhint %}
 
-* **AVAX Pools**
+* **AVAX Pools \(\#32\)**
 
   * AVAX-PNG
   * AVAX-WETH.e
@@ -71,7 +71,7 @@ List updated 08/30/2021
   * AVAX-BIFI
   * AVAX-TUSD
 
-* **PNG Pools**
+* **PNG Pools \(\#30\)**
   * PNG-SNOB
   * PNG-PEFI
   * PNG-USDT.e
