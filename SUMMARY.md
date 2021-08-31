@@ -19,5 +19,12 @@
 * [Developer Documention](developer-documention/README.md)
   * [Adding new pools](developer-documention/adding-new-pools.md)
   * [Common Pangolin contracts](developer-documention/common-pangolin-contracts.md)
+
+## Pangolin Community Tools
+
+* [Multisig](pangolin-community-tools/multisig.md)
+
+---
+
 * [Github Pangolin](https://github.com/pangolindex)
 

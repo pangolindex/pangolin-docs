@@ -8,7 +8,7 @@ description: This will guide you through adding new pools onto Pangolin
 
 ### Creating the Staking Rewards contract
 
-1. Submit a multisig transaction \(0xA4cB6e1971Ed8A1F76d9e8d50A5FC56DFA5cc1e6\) to call AddWhiteListedPool on the LiquidityManagerV2 contract \(0x912b5D41656048Ef681eFa9D32488a3fFE397994\) with the token pair \(PGL\) address as the input parameter and weight
+1. Submit a multisig transaction \(0xA4cB6e1971Ed8A1F76d9e8d50A5FC56DFA5cc1e6\) to call AddWhiteListedPool on the LiquidityManagerV2 contract \(0x912b5D41656048Ef681eFa9D32488a3fFE397994\) with the token pair \(PGL\) address as the input parameter and weight. To do this you'll need to log onto the[ Multisig wallet UI](https://multisig.pangolin.exchange/).
 2. After the function is called, a staking rewards contract will be created. Find the staking rewards contract address using the read function "stakes" on the LiquidityManagerV2 contract \(0x912b5D41656048Ef681eFa9D32488a3fFE397994\) with the token pair \(PGL\) address as the input parameter
 
 ### Updating the [pangolin\_api repo](https://github.com/pangolindex/pangolin-api)
