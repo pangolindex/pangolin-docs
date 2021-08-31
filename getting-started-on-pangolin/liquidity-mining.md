@@ -16,7 +16,7 @@ After you successfully create a pool or add liquidity to an existing pool, you r
 
 1. Select "**PNG**"
 
-![](../.gitbook/assets/pgl1.png)
+![](../.gitbook/assets/pgl1%20%282%29.png)
 
 2. Find the pool you are participating in
 
@@ -42,11 +42,11 @@ After depositing your **PGL** tokens into a pool, you will accrue **PNG** tokens
 
 1. Select "**PNG**"
 
-![](../.gitbook/assets/pgl5.png)
+![](../.gitbook/assets/pgl1%20%281%29.png)
 
 2. Select "**Manage**" on the pool you would like to claim your **PNG** tokens from
 
-![](../.gitbook/assets/pgl6.png)
+![](../.gitbook/assets/pgl10.png)
 
 3. Select "**Claim**"
 
@@ -64,11 +64,11 @@ After depositing your **PGL** tokens into a pool, you may claim your PNG tokens 
 
 1. Select "**PNG**"
 
-![](../.gitbook/assets/pgl9.png)
+![](../.gitbook/assets/pgl1.png)
 
 2. Select "**Manage**" on the pool you would like to withdraw from
 
-![](../.gitbook/assets/pgl10.png)
+![](../.gitbook/assets/pgl10%20%281%29.png)
 
 3. Select "**Withdraw**"
 
