@@ -17,6 +17,7 @@
   * [Bridge Tokens](avalanche-guides/bridge-tokens.md)
 * [Find Pangolin \(PNG\)](find-pangolin-png.md)
 * [Developer Documention](developer-documention/README.md)
+  * [Adding a token to the tokenlists](developer-documention/adding-a-token-to-the-tokenlists.md)
   * [Common Pangolin contracts](developer-documention/common-pangolin-contracts.md)
   * [Adding new pools](developer-documention/adding-new-pools.md)
 
