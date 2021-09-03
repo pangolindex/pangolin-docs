@@ -4,7 +4,7 @@ description: Everything you need to know about trading on Pangolin
 
 # Trading
 
-## Swap Tokens on Pangolin
+## Swapping Tokens on Pangolin
 
 {% embed url="https://pangolin.exchange/videos/swapping-tokens-on-pangolin.mp4" %}
 
