@@ -30,78 +30,20 @@ The vesting schedule is Algorithmically specified as follows: starting from 256 
 | 20 - 24 years | 8 M | ~ 5 K |
 | 24 - 28 years | 4 M | ~ 2 K |
 
-The liquidity mining program starts on mainnet launch and will cover the following pools on Pangolin:
+### Liquidity Mining Pools
+
+The liquidity mining program started on mainnet launch and is covering the following pools on Pangolin:
 
 {% hint style="success" %}
 List updated 08/30/2021
 {% endhint %}
 
-* **AVAX Pools \(\#32\)**
+* **AVAX Pools \(\#41\)**
 
-  * AVAX-PNG
-  * AVAX-WETH.e
-  * AVAX-USDT.e
-  * AVAX-DAI.e
-  * AVAX-WBTC.e
-  * AVAX-YAK
-  * AVAX-QI
-  * AVAX-LINK.e
-  * AVAX-XAVA
-  * AVAX-VSO
-  * AVAX-USDC.e
-  * AVAX-SUSHI.e
-  * AVAX-SPORE
-  * AVAX-WALBT
-  * AVAX-PEFI
-  * AVAX-SNOB
-  * AVAX-AAVE.e
-  * AVAX-SHIBX
-  * AVAX-UNI.e
-  * AVAX-GAJ
-  * AVAX-TRYB
-  * AVAX-MFI
-  * AVAX-LYD
-  * AVAX-AVE
-  * AVAX-SHERPA
-  * AVAX-DYP
-  * AVAX-ELE
-  * AVAX-BNB
-  * AVAX-YFI.e
-  * AVAX-HUSKY
-  * AVAX-BIFI
-  * AVAX-TUSD
+  * AVAX-PNG, AVAX-WETH.e, AVAX-USDT.e, AVAX-DAI.e, AVAX-WBTC.e, AVAX-YAK, AVAX-QI, AVAX-LINK.e, AVAX-XAVA, AVAX-VSO, AVAX-USDC.e, AVAX-SUSHI.e, AVAX-SPORE, AVAX-WALBT, AVAX-PEFI, AVAX-SNOB, AVAX-AAVE.e, AVAX-SHIBX, AVAX-UNI.e, AVAX-GAJ, AVAX-TRYB, AVAX-MFI, AVAX-LYD, AVAX-AVE, AVAX-SHERPA, AVAX-DYP, AVAX-ELE, AVAX-BNB, AVAX-YFI.e, AVAX-HUSKY, AVAX-BIFI, AVAX-TUSD, AVAX-YTS, AVAX-SWAP.e, AVAX-TUNDRA, AVAX-FRAX, AVAX-FXS, AVAX-xUSD, AVAX-START, AVAX-XDO, AVAX-GDL
 
-* **PNG Pools \(\#30\)**
-  * PNG-SNOB
-  * PNG-PEFI
-  * PNG-USDT.e
-  * PNG-WETH.e
-  * PNG-LINK.e
-  * PNG-QI
-  * PNG-VSO
-  * PNG-AAVE.e
-  * PNG-SHERPA
-  * PNG-WBTC.e
-  * PNG-DAI.e
-  * PNG-XAVA
-  * PNG-SUSHI.e
-  * PNG-MFI
-  * PNG-UNI.e
-  * PNG-USDC.e
-  * PNG-YAK
-  * PNG-BIFI
-  * PNG-ELE
-  * PNG-AVE
-  * PNG-BNB
-  * PNG-HUSKY
-  * PNG-YFI.e
-  * PNG-TUSD
-  * PNG-GAJ
-  * PNG-WALBT
-  * PNG-LYD
-  * PNG-DYP
-  * PNG-GDL
-  * PNG-SHIBX
+* **PNG Pools \(\#19\)**
+  * PNG-SNOB, PNG-PEFI, PNG-USDT.e, PNG-WETH.e, PNG-LINK.e, PNG-SPORE, PNG-QI, PNG-VSO, PNG-AAVE.e, PNG-SHERPA, PNG-WBTC.e, PNG-DAI.e, PNG-XAVA, PNG-MFI, PNG-USDC.e, PNG-YAK, PNG-BIFI, PNG-ELE, PNG-AVE
 
 The **PNG** will be allocated per pool proportional to liquidity as calculated by the total **AVAX** value in the pool. In non-AVAX pools, the proportional liquidity is calculated by looking at the price of the base token in comparison to **AVAX**.
 
