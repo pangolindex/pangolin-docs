@@ -32,7 +32,7 @@ Pangolin does not store your purchase history or any personal data!
 
 ## Stake Liquidity 🥩 
 
-Liquidity providers **earn a 0.3% fee** on **all trades** proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.
+Liquidity providers **earn a 0.25% fee** on **all trades** proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.
 
 {% embed url="https://app.pangolin.exchange/\#/pool" %}
 
