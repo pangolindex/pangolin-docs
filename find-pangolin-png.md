@@ -10,6 +10,10 @@ description: Track Pangolin (PNG)
 
 {% embed url="https://nomics.com/assets/png2-pangolin" %}
 
+{% embed url="https://coinstats.app/coins/pangoli" %}
+
+{% embed url="https://coinpaprika.com/coin/png-pangolin/" %}
+
 {% embed url="https://dappradar.com/avalanche/defi/pangolin-exchange" %}
 
 {% embed url="https://blockspot.io/coin/pangolin/" %}
