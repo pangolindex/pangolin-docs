@@ -4,25 +4,23 @@ description: Track Pangolin (PNG)
 
 # Find Pangolin \(PNG\)
 
-{% embed url="https://www.coingecko.com/en/coins/pangolin" %}
+**Coingecko** - [https://www.coingecko.com/en/coins/pangolin](https://www.coingecko.com/en/coins/pangolin)
 
-{% embed url="https://coinmarketcap.com/currencies/pangolin/" %}
+**CoinMarketCap** - [https://coinmarketcap.com/currencies/pangolin](https://coinmarketcap.com/currencies/pangolin/)
 
-{% embed url="https://nomics.com/assets/png2-pangolin" %}
+**Nomics** - [https://nomics.com/assets/png2-pangolin](https://nomics.com/assets/png2-pangolin)
 
-{% embed url="https://coinstats.app/coins/pangoli" %}
+**CoinStats** - [https://coinstats.app/coins/pangoli](https://coinstats.app/coins/pangoli)n 
 
-{% embed url="https://coinpaprika.com/coin/png-pangolin/" %}
+**Coinpaprika** - [https://coinpaprika.com/coin/png-pangolin](https://coinpaprika.com/coin/png-pangolin/)
 
-{% embed url="https://dappradar.com/avalanche/defi/pangolin-exchange" %}
+**DappRadar** - [https://dappradar.com/avalanche/defi/pangolin-exchange](https://dappradar.com/avalanche/defi/pangolin-exchange)
 
-{% embed url="https://blockspot.io/coin/pangolin/" %}
+**DeFi Lama** - [https://defillama.com/protocol/pangolin](https://defillama.com/protocol/pangolin)
 
-{% embed url="https://defillama.com/protocol/pangolin" %}
+**Blockspot** - [https://blockspot.io/coin/pangolin/](https://blockspot.io/coin/pangolin/)
 
-{% embed url="https://www.gate.io/en/trade/PNG\_USDT" %}
-
-{% embed url="https://pangolindex.medium.com/" %}
+**GateIO** - [https://www.gate.io/en/trade/PNG\_USDT](https://www.gate.io/en/trade/PNG_USDT)
 
 
 
