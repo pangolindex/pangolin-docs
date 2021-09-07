@@ -18,7 +18,7 @@ description: Track Pangolin (PNG)
 
 **DeFi Lama** - [https://defillama.com/protocol/pangolin](https://defillama.com/protocol/pangolin)
 
-**Blockspot** - [https://blockspot.io/coin/pangolin/](https://blockspot.io/coin/pangolin/)
+**Blockspot** - [https://blockspot.io/coin/pangolin](https://blockspot.io/coin/pangolin/)
 
 **GateIO** - [https://www.gate.io/en/trade/PNG\_USDT](https://www.gate.io/en/trade/PNG_USDT)
 
