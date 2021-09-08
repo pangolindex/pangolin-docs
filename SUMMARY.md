@@ -7,6 +7,7 @@
   * [Buy with credit card](getting-started-on-pangolin/buy-with-credit-card.md)
   * [Stake Liquidity](getting-started-on-pangolin/stake-liquidity.md)
   * [Liquidity Mining](getting-started-on-pangolin/liquidity-mining.md)
+  * [Staking PNG](getting-started-on-pangolin/staking-png.md)
   * [Analytics](getting-started-on-pangolin/analytics.md)
   * [Governance / Vote](getting-started-on-pangolin/governance-vote.md)
   * [Community Forum](getting-started-on-pangolin/community-forum.md)
