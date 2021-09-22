@@ -16,7 +16,7 @@ Pangolin is a decentralized exchange \(DEX\) which runs on Avalanche, uses the s
 
 **Third**, but not least, Pangolin features a **100% community-focused token distribution** model, meaning that all tokens are distributed directly to the community, without any allocations to team, advisors, investors, or insiders.
 
-## **Swap**
+## **Swap** 💱 
 
 Swap tokens with fast finality and low transaction fees.
 
