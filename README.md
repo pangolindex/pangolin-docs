@@ -22,7 +22,7 @@ Pangolin is a decentralized exchange \(DEX\) which runs on Avalanche, uses the s
 
 ## Buy $AVAX with Credit Card💳![](.gitbook/assets/pay.png) 
 
-Buy **$AVAX** with credit card or Apple Pay and 29 supported currencies.
+Buy **$AVAX** with credit card or Apple Pay and 29 supported fiat currencies.
 
 {% hint style="info" %}
 Pangolin does not store your purchase history or any personal data!
