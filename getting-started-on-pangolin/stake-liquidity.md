@@ -2,7 +2,7 @@
 description: Create new liquidity pools or add and remove liquidity on existing pools
 ---
 
-# Stake Liquidity
+# Providing Liquidity
 
 Pangolin allows token holders to add liquidity to pools. By **adding liquidity**, you **receive PGL** tokens, which is a representation of your ownership of the pool. After adding liquidity to a pool, you will see how you can use those **PGL** tokens to earn **PNG**.
 

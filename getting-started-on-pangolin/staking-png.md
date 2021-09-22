@@ -2,7 +2,7 @@
 description: Learn how to stake your PNG tokens to earn Wrapped AVAX
 ---
 
-# Staking PNG
+# PNG Staking
 
 ## Stake PNG tokens to earn WAVAX \(Wrapped AVAX\)
 

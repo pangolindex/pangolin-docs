@@ -18,6 +18,8 @@ Pangolin is a decentralized exchange \(DEX\) which runs on Avalanche, uses the s
 
 ## **Swap**
 
+Swap tokens with fast finality and low transaction fees.
+
 **Swap -** [**https://app.pangolin.exchange/\#/swap**](https://app.pangolin.exchange/#/swap)\*\*\*\*
 
 ## Buy $AVAX with Credit Card💳![](.gitbook/assets/pay.png) 
@@ -42,9 +44,15 @@ Liquidity providers **earn a 0.25% fee** on **all trades** proportional to their
 
 **Farm -** [**https://app.pangolin.exchange/\#/png/1**](https://app.pangolin.exchange/#/png/1)\*\*\*\*
 
+## PNG staking 🥩 
+
+**Deposit** and stake your **PNG** tokens to earn more tokens \($AVAX, $OOE\).
+
+**Stake -** [**https://app.pangolin.exchange/\#/stake/0**](https://app.pangolin.exchange/#/stake/0)\*\*\*\*
+
 ## Analytics 📊 
 
-Pangolin Protocol Analytics
+Pangolin Protocol Analytics with advanced Charting
 
 **Charts -** [**https://info.pangolin.exchange/\#/home**](https://info.pangolin.exchange/#/home)\*\*\*\*
 
@@ -55,6 +63,8 @@ Pangolin Protocol Analytics
 **Vote -** [**https://app.pangolin.exchange/\#/vote**](https://app.pangolin.exchange/#/vote)\*\*\*\*
 
 ## Community Forum ℹ 
+
+Join the Community Forum and shape the future of Pangolin.
 
 {% embed url="https://gov.pangolin.exchange/" %}
 
