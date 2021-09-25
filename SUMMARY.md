@@ -13,6 +13,7 @@
   * [Community Forum](getting-started-on-pangolin/community-forum.md)
 * [Advanced](advanced/README.md)
   * [Fees](advanced/fees.md)
+  * [Pricing](advanced/pricing.md)
   * [Security](advanced/security.md)
   * [Bug Bounty](advanced/bug-bounty.md)
 * [Avalanche Guides](avalanche-guides/README.md)
