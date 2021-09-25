@@ -13,6 +13,7 @@
   * [Community Forum](getting-started-on-pangolin/community-forum.md)
 * [Advanced](advanced/README.md)
   * [Security](advanced/security.md)
+  * [Bug Bounty](advanced/bug-bounty.md)
 * [Avalanche Guides](avalanche-guides/README.md)
   * [Set Up MetaMask](avalanche-guides/set-up-metamask.md)
   * [Fund Your MetaMask](avalanche-guides/fund-your-metamask.md)
