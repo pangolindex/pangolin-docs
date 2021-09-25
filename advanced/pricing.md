@@ -1,3 +1,7 @@
+---
+description: Learn how prices are determined and handled
+---
+
 # Pricing
 
 ## How are prices determined?

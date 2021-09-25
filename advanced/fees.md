@@ -1,3 +1,7 @@
+---
+description: LP and Protocol Fees
+---
+
 # Fees
 
 {% hint style="info" %}
@@ -12,7 +16,7 @@ Swapping fees are immediately deposited into liquidity reserves. This increases 
 
 Since fees are added to liquidity pools, the invariant increases at the end of every trade. Within a single transaction, the invariant represents `token0_pool / token1_pool` at the end of the previous transaction.
 
-## Protocol fees
+## Protocol Fees
 
 This feature, which is hard-coded into the core contracts and remain decentralized, non-upgradable and directed by a governance process, is currently turned **on** and is used for the funding of our market maker. Once funded, a community vote will be introduced for further use of it.
 
