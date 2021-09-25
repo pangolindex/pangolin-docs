@@ -6,7 +6,7 @@ description: Audits & Formal Verification
 
 ## Pangolin, a Uniswap V2 protocol fork
 
-Between January 8 and April 30 2020, a team of six engineers reviewed and formally verified crucial components of the smart contracts for Uniswap V2.
+From January 8th to April 30th 2020, a team of six engineers reviewed and formally verified crucial components of the smart contracts for the second version of the Uniswap decentralized trading protocol.
 
 {% embed url="https://uniswap.org/audit.html" %}
 
