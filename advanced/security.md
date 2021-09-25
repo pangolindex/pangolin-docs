@@ -20,5 +20,7 @@ Halborn used automated testing techniques to enhance coverage of certain areas o
 
 {% file src="../.gitbook/assets/pangolin\_avalabs\_zap\_smart\_contract\_security\_audit\_report\_halborn.pdf" %}
 
+{% embed url="https://halborn.com/" %}
+
 
 
