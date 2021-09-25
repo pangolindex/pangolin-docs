@@ -4,6 +4,10 @@ description: 'Pangolin, a Uniswap V2 protocol fork'
 
 # Security
 
+{% hint style="success" %}
+**Pangolin** is one of the safest protocols on **Avalanche**: Forked from Uniswap V2 and every new deployed contract is audited by **Halborn**
+{% endhint %}
+
 ## Audits & Formal Verification
 
 ### Uniswap V2 Audit Report
