@@ -1,5 +1,5 @@
 ---
-description: LP and Protocol Fees
+description: Liquidity Provider and Protocol Fees
 ---
 
 # Fees
