@@ -11,6 +11,8 @@
   * [Governance / Vote](getting-started-on-pangolin/governance-vote.md)
   * [Analytics](getting-started-on-pangolin/analytics.md)
   * [Community Forum](getting-started-on-pangolin/community-forum.md)
+* [Advanced](advanced/README.md)
+  * [Security](advanced/security.md)
 * [Avalanche Guides](avalanche-guides/README.md)
   * [Set Up MetaMask](avalanche-guides/set-up-metamask.md)
   * [Fund Your MetaMask](avalanche-guides/fund-your-metamask.md)
