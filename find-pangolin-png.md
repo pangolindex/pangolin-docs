@@ -1,8 +1,8 @@
 ---
-description: Track Pangolin (PNG)
+description: 'Track $PNG Markets, Volume, Charts, Social Media'
 ---
 
-# Find Pangolin \(PNG\)
+# Track PNG
 
 **Coingecko** - [https://www.coingecko.com/en/coins/pangolin](https://www.coingecko.com/en/coins/pangolin)
 
@@ -20,7 +20,7 @@ description: Track Pangolin (PNG)
 
 **Blockspot** - [https://blockspot.io/coin/pangolin](https://blockspot.io/coin/pangolin/)
 
-**GateIO** - [https://www.gate.io/en/trade/PNG\_USDT](https://www.gate.io/en/trade/PNG_USDT)
+**LunarCRUSH -** [https://lunarcrush.com/coins/png/pangolin](https://lunarcrush.com/coins/png/pangolin?interval=1%20Week)
 
 
 
