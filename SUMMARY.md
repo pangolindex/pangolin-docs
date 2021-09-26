@@ -16,6 +16,7 @@
   * [Pricing](advanced/pricing.md)
   * [Security](advanced/security.md)
   * [Bug Bounty](advanced/bug-bounty.md)
+* [Buy PNG](buy-png.md)
 * [Avalanche Guides](avalanche-guides/README.md)
   * [Set Up MetaMask](avalanche-guides/set-up-metamask.md)
   * [Fund Your MetaMask](avalanche-guides/fund-your-metamask.md)

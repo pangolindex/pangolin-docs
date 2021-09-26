@@ -18,7 +18,7 @@ Since fees are added to liquidity pools, the invariant increases at the end of e
 
 ## Protocol Fees
 
-This feature, which is hard-coded into the core contracts and remain decentralized, non-upgradable and directed by a governance process, is currently turned **on** and is used for the funding of our market maker. Once funded, a community vote will be introduced for further use of it.
+This feature, which is hard-coded into the core contracts and remain decentralized, non-upgradable and directed by a governance process, is currently turned **on** and is used for the funding of our market maker. Once funded, a community vote will be introduced for eg. **Burn & Buybacks** etc.
 
 ## Protocol Charge Calculation
 
