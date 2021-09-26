@@ -17,7 +17,7 @@
   * [Security](advanced/security.md)
   * [Bug Bounty](advanced/bug-bounty.md)
 * [Buy PNG](buy-png.md)
-* [Track PNG](find-pangolin-png.md)
+* [Track PNG](track-png.md)
 * [Avalanche Guides](avalanche-guides/README.md)
   * [Set Up MetaMask](avalanche-guides/set-up-metamask.md)
   * [Fund Your MetaMask](avalanche-guides/fund-your-metamask.md)
