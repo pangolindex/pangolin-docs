@@ -20,7 +20,7 @@ Pangolin is a decentralized exchange \(DEX\) which runs on Avalanche, uses the s
 
 Swap tokens with fast finality and low transaction fees.
 
-**Swap -** [**https://app.pangolin.exchange/\#/swap**](https://app.pangolin.exchange/#/swap)\*\*\*\*
+**Swap** - [https://app.pangolin.exchange/\#/swap](https://app.pangolin.exchange/#/swap)
 
 ## Buy $AVAX with Credit Card💳![](.gitbook/assets/pay.png) 
 
@@ -30,37 +30,37 @@ Buy **$AVAX** with credit card or Apple Pay and 29 supported fiat currencies.
 Pangolin does not store your purchase history or any personal data!
 {% endhint %}
 
-**Buy -** [**https://app.pangolin.exchange/\#/buy**](https://app.pangolin.exchange/#/buy)\*\*\*\*
+**Buy** - [https://app.pangolin.exchange/\#/buy](https://app.pangolin.exchange/#/buy)
 
 ## Provide Liquidity ♒ 
 
 Liquidity providers **earn a 0.25% fee** on **all trades** proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.
 
-**Pool -** [**https://app.pangolin.exchange/\#/pool**](https://app.pangolin.exchange/#/pool)\*\*\*\*
+**Pool** - [https://app.pangolin.exchange/\#/pool](https://app.pangolin.exchange/#/pool)
 
 ## Liquidity Mining ⛏ 
 
 **Deposit** your Pangolin Liquidity Provider **PGL** tokens to **receive PNG**, the Pangolin protocol governance token.
 
-**Farm -** [**https://app.pangolin.exchange/\#/png/1**](https://app.pangolin.exchange/#/png/1)\*\*\*\*
+**Farm** - [https://app.pangolin.exchange/\#/png/1](https://app.pangolin.exchange/#/png/1)
 
 ## PNG staking 🥩 
 
 **Deposit** and stake your **PNG** tokens to earn more tokens \($AVAX, $OOE\).
 
-**Stake -** [**https://app.pangolin.exchange/\#/stake/0**](https://app.pangolin.exchange/#/stake/0)\*\*\*\*
+**Stake** - [https://app.pangolin.exchange/\#/stake/0](https://app.pangolin.exchange/#/stake/0)
 
 ## Analytics 📊 
 
 Pangolin Protocol Analytics with advanced Charting
 
-**Charts -** [**https://info.pangolin.exchange/\#/home**](https://info.pangolin.exchange/#/home)\*\*\*\*
+**Charts** - [https://info.pangolin.exchange/\#/home](https://info.pangolin.exchange/#/home)
 
 ## Governance / Vote 🗳 
 
 **PNG** tokens represent voting shares in Pangolin governance. You can vote on each proposal yourself or delegate your votes to a third party. To be eligible to vote, you **must hold PNG** in your wallet and delegate it at the start of voting. After voting has begun, you may pool or spend your PNG. Governance votes are decided by simple majority. There is no quorum threshold.
 
-**Vote -** [**https://app.pangolin.exchange/\#/vote**](https://app.pangolin.exchange/#/vote)\*\*\*\*
+**Vote** - [https://app.pangolin.exchange/\#/vote](https://app.pangolin.exchange/#/vote)
 
 ## Community Forum ℹ 
 
