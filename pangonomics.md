@@ -35,7 +35,7 @@ The vesting schedule is Algorithmically specified as follows: starting from 256 
 The liquidity mining program started on mainnet launch and is covering the following pools on Pangolin:
 
 {% hint style="success" %}
-List updated 09/23/2021
+List updated 09/27/2021
 {% endhint %}
 
 * **AVAX Pools \(\#65\)**
