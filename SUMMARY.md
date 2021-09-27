@@ -37,7 +37,6 @@
 ---
 
 * [Exchange Contracts](exchange-contracts.md)
-* [Interface](interface.md)
 * [Tokenlists](tokenlists.md)
 * [Subgraph](subgraph.md)
 * [Governance](governance.md)
