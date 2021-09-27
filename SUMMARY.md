@@ -39,7 +39,6 @@
 * [Exchange Contracts](exchange-contracts.md)
 * [Interface](interface.md)
 * [Tokenlists](tokenlists.md)
-* [Analytics](analytics.md)
 * [Subgraph](subgraph.md)
 * [Governance](governance.md)
 * [API](api.md)
