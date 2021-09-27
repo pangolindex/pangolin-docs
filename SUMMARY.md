@@ -32,7 +32,15 @@
 
 * [Multisig](pangolin-community-tools/multisig.md)
 
+## GitHub Pangolin
+
 ---
 
-* [Github Pangolin](https://github.com/pangolindex)
+* [Exchange Contracts](exchange-contracts.md)
+* [Interface](interface.md)
+* [Tokenlists](tokenlists.md)
+* [Analytics](analytics.md)
+* [Subgraph](subgraph.md)
+* [Governance](governance.md)
+* [API](api.md)
 
