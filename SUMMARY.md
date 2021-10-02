@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Introduction to Pangolin](README.md)
+* [Introduction](README.md)
 * [Pangonomics](pangonomics.md)
-* [Getting started on Pangolin](getting-started-on-pangolin/README.md)
+* [Getting started](getting-started-on-pangolin/README.md)
   * [Trading](getting-started-on-pangolin/trading.md)
   * [Buy with credit card](getting-started-on-pangolin/buy-with-credit-card.md)
   * [Providing Liquidity](getting-started-on-pangolin/stake-liquidity.md)

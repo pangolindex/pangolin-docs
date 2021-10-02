@@ -2,7 +2,7 @@
 description: Learn how to handle the beast
 ---
 
-# Getting started on Pangolin
+# Getting started
 
 ## A Quick Overview Of Pangolin
 

@@ -2,7 +2,7 @@
 description: Scale Your DeFi Trading with Pangolin
 ---
 
-# Introduction to Pangolin
+# Introduction
 
 ![](.gitbook/assets/logo.svg)
 
