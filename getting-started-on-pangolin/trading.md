@@ -1,8 +1,8 @@
 ---
-description: Everything you need to know about trading on Pangolin
+description: Everything you need to know about swapping tokens on Pangolin
 ---
 
-# Trading
+# 🪙 Swap
 
 ## Swapping Tokens on Pangolin
 
@@ -30,7 +30,6 @@ Transaction deadline: set a time limit for the transaction to be fulfilled, othe
 
 ### Toggle
 
-**Expert Mode** \[Not Recommended\]: can be set to allow unlimited slippage
+**Expert Mode** \[Not Recommended]: can be set to allow unlimited slippage
 
 **Color Mode**: set Pangolin to light or dark mode
-

@@ -1,5 +1,5 @@
 ---
-description: PNG Token-Economics
+description: $PNG Tokenomics
 cover: .gitbook/assets/hero.png
 coverY: 0
 ---

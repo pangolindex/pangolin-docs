@@ -1,26 +1,51 @@
 ---
-description: 'Track $PNG Markets, Volume, Charts, Social Media'
+description: Track Markets, Socials and more
 ---
 
-# Track PNG
+# 🔎 PNG Metrics
 
-**Coingecko** - [https://www.coingecko.com/en/coins/pangolin](https://www.coingecko.com/en/coins/pangolin)
+#### TradingView
 
-**CoinMarketCap** - [https://coinmarketcap.com/currencies/pangolin](https://coinmarketcap.com/currencies/pangolin/)
+{% embed url="https://www.tradingview.com/chart/t5dIu7qv?symbol=PANGOLIN%3APNGWAVAX" %}
+PNG WAVAX Pair
+{% endembed %}
 
-**Nomics** - [https://nomics.com/assets/png2-pangolin](https://nomics.com/assets/png2-pangolin)
+#### **Token Terminal**
 
-**CoinStats** - [https://coinstats.app/coins/pangoli](https://coinstats.app/coins/pangoli)n 
+{% embed url="https://www.tokenterminal.com/terminal/projects/pangolin" %}
 
-**Coinpaprika** - [https://coinpaprika.com/coin/png-pangolin](https://coinpaprika.com/coin/png-pangolin/)
+**Coingecko**
 
-**DappRadar** - [https://dappradar.com/avalanche/defi/pangolin-exchange](https://dappradar.com/avalanche/defi/pangolin-exchange)
+{% embed url="https://www.coingecko.com/en/coins/pangolin" %}
 
-**DeFi Lama** - [https://defillama.com/protocol/pangolin](https://defillama.com/protocol/pangolin)
+**CoinMarketCap**
 
-**Blockspot** - [https://blockspot.io/coin/pangolin](https://blockspot.io/coin/pangolin/)
+{% embed url="https://coinmarketcap.com/currencies/pangolin" %}
 
-**LunarCRUSH -** [https://lunarcrush.com/coins/png/pangolin](https://lunarcrush.com/coins/png/pangolin?interval=1%20Week)
+**Nomics**
 
+{% embed url="https://nomics.com/assets/png2-pangolin" %}
 
+**DappRadar**
 
+{% embed url="https://dappradar.com/avalanche/defi/pangolin-exchange" %}
+
+**DeFi Lama**
+
+{% embed url="https://defillama.com/protocol/pangolin" %}
+
+**CoinStats**
+
+{% embed url="https://coinstats.app/coins/pangolin" %}
+
+**Coinpaprika**
+
+{% embed url="https://coinpaprika.com/coin/png-pangolin" %}
+
+**Blockspot**
+
+{% embed url="https://blockspot.io/coin/pangolin" %}
+
+**LunarCrush**
+
+{% embed url="https://lunarcrush.com/coins/png/pangolin" %}

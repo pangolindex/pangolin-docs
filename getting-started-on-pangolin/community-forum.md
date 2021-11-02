@@ -1,10 +1,10 @@
 ---
-description: Join the discussions
+description: Join the discussions, propose and shape the future of Pangolin
 ---
 
-# Community Forum
+# ℹ Community Forum
+
+![](../.gitbook/assets/forum.png)
 
 {% embed url="https://gov.pangolin.exchange/c/start-here/5" %}
-
-
 

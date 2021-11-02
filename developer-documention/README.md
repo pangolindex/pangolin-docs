@@ -4,9 +4,8 @@ description: >-
   codebase
 ---
 
-# Developer Documention
+# 📒 Developer Documention
 
 ## Github
 
 You can find our Github repository here [https://github.com/pangolindex](https://github.com/pangolindex)
-

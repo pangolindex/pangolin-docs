@@ -2,5 +2,5 @@
 description: coming soon
 ---
 
-# Bug Bounty
+# 🐛 Bug Bounty
 
