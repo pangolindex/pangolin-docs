@@ -1,5 +1,5 @@
 ---
-description: Pangolin DEX supports payments with credit card or Apple Pay™
+description: Pangolin DEX supports payments with credit card and Apple Pay™
 cover: >-
   https://images.unsplash.com/photo-1537724326059-2ea20251b9c8?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxjcmVkaXQlMjBjYXJkfGVufDB8fHx8MTYzNTg3MTM1OQ&ixlib=rb-1.2.1&q=85
 coverY: 0
@@ -9,7 +9,7 @@ coverY: 0
 
 ## Buy $AVAX with Credit Card or Apple Pay™
 
-![](../../.gitbook/assets/logo.df3e54b.svg) ![](../../.gitbook/assets/visa-logo.png) ![](../../.gitbook/assets/mc-logo-52.svg) ![](../../.gitbook/assets/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
+![](../../.gitbook/assets/visa-logo.png) ![](../../.gitbook/assets/mc-logo-52.svg) ![](../../.gitbook/assets/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
 
 
 

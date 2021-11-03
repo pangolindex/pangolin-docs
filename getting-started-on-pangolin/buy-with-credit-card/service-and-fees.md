@@ -4,7 +4,7 @@ description: 'source: Wyre'
 
 # ℹ Service & Fees
 
-powered by ![](../../.gitbook/assets/logo.df3e54b.svg) ![](../../.gitbook/assets/visa-logo.png) ![](../../.gitbook/assets/mc-logo-52.svg) ![](../../.gitbook/assets/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
+[![](../../.gitbook/assets/logo.df3e54b.svg)](https://www.sendwyre.com)
 
 | Payment Method Type | Service Area  | Fees         |
 | ------------------- | ------------- | ------------ |
