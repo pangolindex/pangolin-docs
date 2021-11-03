@@ -4,7 +4,7 @@ description: Create new liquidity pools or add and remove liquidity on existing 
 
 # ♒ Providing Liquidity
 
-Pangolin allows token holders to add liquidity to pools. By **adding liquidity**, you **receive PGL** tokens, which is a representation of your ownership of the pool. After adding liquidity to a pool, you will see how you can use those **PGL **tokens to earn **PNG**.
+Pangolin allows token holders to add liquidity to pools. By adding liquidity, you receive PGL tokens, which is a representation of your ownership of the pool. After adding liquidity to a pool, you will see how you can use those PGL tokens to earn PNG.
 
 {% hint style="info" %}
 You may only receive PNG rewards from supported pools, which can be found under the following section on the Litepaper: Community - Liquidity Mining Allocation (95% of PNG)
@@ -12,11 +12,11 @@ You may only receive PNG rewards from supported pools, which can be found under 
 
 ### Add Liquidity&#x20;
 
-Pangolin allows Liquidity Providers (**LPs**) with Avalanche and Ethereum tokens to deposit them and **earn yield** from exchange **fees**. **LPs** can create a new liquidity pool or add liquidity to an existing one. **LPs** will earn at least **0.25%** of all trades on the deposited token pair proportional to the share of the pool. Fees are added to the pool and **accrue in real-time**. Each pool has its own return, which is determined by a function.
+Pangolin allows Liquidity Providers (LPs) with Avalanche and Ethereum tokens to deposit them and earn yield from exchange fees. LPs can create a new liquidity pool or add liquidity to an existing one. LPs will earn at least 0.25% of all trades on the deposited token pair proportional to the share of the pool. Fees are added to the pool and accrue in real-time. Each pool has its own return, which is determined by a function.
 
 ### **Option 1: Create a New Liquidity Pool**
 
-If a token pair doesn’t exist, you must create a new liquidity pool. The price of the tokens will be determined by the ratio of what you deposit. For example, if you deposit **1 PNG** and **5 DAI** into this new liquidity pool, there will be an initial price of **5 DAI per PNG** or **0.2 PNG per DAI**. These prices are dynamic and will change as liquidity is added or removed and the ratio of the pool adjusts.
+If a token pair doesn’t exist, you must create a new liquidity pool. The price of the tokens will be determined by the ratio of what you deposit. For example, if you deposit 1 PNG and 5 DAI into this new liquidity pool, there will be an initial price of 5 DAI per PNG or 0.2 PNG per DAI. These prices are dynamic and will change as liquidity is added or removed and the ratio of the pool adjusts.
 
 ![](../.gitbook/assets/liq1.png)
 
@@ -34,13 +34,13 @@ If a token pair doesn’t exist, you must create a new liquidity pool. The price
 
 ![](../.gitbook/assets/liq3.png)
 
-2\. Select **Add Liquidity**
+2\. Select "**Add Liquidity"**
 
 ![](../.gitbook/assets/liq4.png)
 
-3\. Choose the **token **you would like to **add **to the **liquidity pool**
+3\. Choose the token you would like to add to the liquidity pool
 
-Let’s say you choose **$AVAX** as the token you would like to deposit. Once you choose **$AVAX**, it will ask you to decide on the token pair you would like to enter, which is the liquidity pool. When you choose that token pair, it will require you to add an equivalent value of that token pair
+Let’s say you choose AVAX as the token you would like to deposit. Once you choose AVAX, it will ask you to decide on the token pair you would like to enter, which is the liquidity pool. When you choose that token pair, it will require you to add an equivalent value of that token pair
 
 a. Choose the **token**, and enter the **amount **you would like to **deposit**
 
@@ -99,7 +99,7 @@ If you would like to **add **more liquidity to your **existing liquidity pool**,
 
 ![](../.gitbook/assets/liq12.png)
 
-3\. Determine the number of tokens you would like to add to the liquidity pool. In this case, we chose to add **1 PNG** token, which means we have to add an equal amount of **$AVAX**
+3\. Determine the number of tokens you would like to add to the liquidity pool. In this case, we chose to add **1 PNG** token, which means we have to add an equal amount of **AVAX**
 
 ![](../.gitbook/assets/liq13.png)
 

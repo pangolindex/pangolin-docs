@@ -1,5 +1,5 @@
 ---
-description: $PNG Tokenomics
+description: PNG Tokenomics
 cover: .gitbook/assets/hero.png
 coverY: 0
 ---
@@ -8,11 +8,11 @@ coverY: 0
 
 ## Distribution: A 100% Community-Driven Governance Token
 
-To reinforce the project’s commitment to being created solely for the benefit of users, Pangolin is following a fair launch model with its governance token (**PNG**). However, while **PNG **will enable all the governance activities of Pangolin, and therefore its future development, governance proposals will not start until three months after the launch of Pangolin. This waiting period of three months is to ensure that enough **PNG **is distributed to the community.
+To reinforce the project’s commitment to being created solely for the benefit of users, Pangolin is following a fair launch model with its governance token (PNG). However, while PNG will enable all the governance activities of Pangolin, and therefore its future development, governance proposals will not start until three months after the launch of Pangolin. This waiting period of three months is to ensure that enough PNG is distributed to the community.
 
 ### Distribution Breakdown
 
-**No PNG **tokens are allocated to the team, investors, advisors, or any sort of insiders. Therefore, Pangolin is **entirely community-driven** and e**ntirely community-owned**. **PNG **is capped at a supply of **538 million tokens**, 100% of which will be distributed to the community according to **Chart 1**. The first 95% of tokens, or 512 million tokens, are dedicated to the community treasury, where they will initially be used to fund liquidity mining. The remaining 5%, or 26 million tokens, are dedicated to a community airdrop.
+No PNG tokens are allocated to the team, investors, advisors, or any sort of insiders. Therefore, Pangolin is entirely community-driven and entirely community-owned. PNG is capped at a supply of 538 million tokens, 100% of which will be distributed to the community according to Chart 1. The first 95% of tokens, or 512 million tokens, are dedicated to the community treasury, where they will initially be used to fund liquidity mining. The remaining 5%, or 26 million tokens, are dedicated to a community airdrop.
 
 ![](.gitbook/assets/distribution.png)
 
@@ -46,7 +46,7 @@ List updated 09/27/2021
 * **PNG Pools (#37)**
   * PNG-SNOB, PNG-PEFI, PNG-DAI, PNG-DAI.e, PNG-UNI, PNG-UNI.e, PNG-SUSHI, PNG-SUSHI.e, PNG-USDT, PNG-USDT.e, PNG-USDC.e, PNG-ETH, PNG-WETH.e, PNG-LINK, PNG-LINK.e, PNG-YFI, PNG-YFI.e, PNG-BNB, PNG-SPORE, PNG-QI, PNG-VSO, PNG-AAVE, PNG-WBTC, PNG-WBTC.e, PNG-DAI.e, PNG-XAVA, PNG-MFI, PNG-USDC.e, PNG-YAK, PNG-GAJ, PNG-AVE, PNG-TRYB, PNG-DYP, PNG-WALBT, PNG-HUSKY, PNG-GDL, PNG-SHIBX
 
-The **PNG **will be allocated per pool proportional to liquidity as calculated by the total **AVAX **value in the pool. In non-AVAX pools, the proportional liquidity is calculated by looking at the price of the base token in comparison to **AVAX**.
+The PNG will be allocated per pool proportional to liquidity as calculated by the total AVAX value in the pool. In non-AVAX pools, the proportional liquidity is calculated by looking at the price of the base token in comparison to AVAX.
 
 Here’s an example. Suppose we only have AVAX/USDT, AVAX/PNG, and PNG/USDT pools. We are trying to calculate the proportional amount of rewards for each. Now, suppose the price of AVAX is 4 USDT and 40 PNG. For the AVAX/USDT pool, there’s 1 AVAX of liquidity, and thus 4 USDT. For AVAX/PNG there is 1 of liquidity, and thus 40 PNG. For PNG/USDT, there’s 80 PNG of liquidity. To calculate the amount of AVAX, we calculate that the 80 PNG of liquidity equals 2 AVAX. Therefore, the final liquidities are 1, 1, and 2 for the three pools respectively. This total 4 AVAX, and thus the first two pools receive 25% of the rewards, and the third pool receives 50%.
 

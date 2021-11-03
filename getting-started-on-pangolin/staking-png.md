@@ -6,7 +6,7 @@ description: Single stake your PNG tokens without the risk of impermanent loss
 
 ## Stake PNG tokens to earn WAVAX (Wrapped AVAX)
 
-Users can stake $**PNG **tokens to earn $**WAVAX **(Wrapped $AVAX). This is part of the **Avalanche Rush** incentives program.
+Users can stake **PNG **tokens to earn **WAVAX **(Wrapped AVAX). This is part of the **Avalanche Rush** incentives program.
 
 ![](../.gitbook/assets/stake1.png)
 

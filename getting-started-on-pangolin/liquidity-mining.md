@@ -4,7 +4,7 @@ description: Deposit your PGL token to earn PNG token
 
 # ⛏ Liquidity Mining
 
-## Using your Liquidity Provider (PGL) Tokens to Earn the Pangolin (PNG) Governance Token
+## Using your Liquidity Provider Tokens (PGL) to Earn the Pangolin Governance Token (PNG)
 
 After you successfully create a pool or add liquidity to an existing pool, you receive **PGL **tokens. These tokens are a **representation of your ownership** in a pool. You may **use **those **PGL **tokens to **earn** the **PNG **governance token by depositing them into one of your participating pools.
 

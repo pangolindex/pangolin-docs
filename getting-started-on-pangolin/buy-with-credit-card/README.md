@@ -7,7 +7,7 @@ coverY: 0
 
 # 💳 Buy with Credit Card
 
-## Buy $AVAX with Credit Card or Apple Pay™
+## Buy AVAX with Credit Card or Apple Pay™
 
 ![](../../.gitbook/assets/visa-logo.png) ![](../../.gitbook/assets/mc-logo-52.svg) ![](../../.gitbook/assets/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
 
