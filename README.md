@@ -52,7 +52,7 @@ Liquidity providers **earn a 0.25% fee** on **all trades** proportional to their
 
 ### Liquidity Mining :pick:&#x20;
 
-**Deposit **your Pangolin Liquidity Provider **PGL** tokens to **receive PNG**, the Pangolin protocol governance token.
+**Deposit **your Pangolin Liquidity Provider $PGL tokens to **receive **$PNG** rewards**, the Pangolin protocol governance token.
 
 **Farm **- [https://app.pangolin.exchange/#/png/1](https://app.pangolin.exchange/#/png/1)
 
@@ -60,7 +60,7 @@ Liquidity providers **earn a 0.25% fee** on **all trades** proportional to their
 
 ### PNG staking :cut\_of\_meat:&#x20;
 
-**Deposit **and stake your **PNG **tokens to earn more tokens _($AVAX, $OOE, $APEIN)_.
+**Deposit** and single stake your $PNG tokens to earn $AVAX, $OOE, $APEIN.
 
 **Stake **- [https://app.pangolin.exchange/#/stake/0](https://app.pangolin.exchange/#/stake/0)
 
@@ -68,7 +68,7 @@ Liquidity providers **earn a 0.25% fee** on **all trades** proportional to their
 
 ### Analytics :bar\_chart:&#x20;
 
-Pangolin Protocol Analytics with advanced Charting
+Pangolin Protocol Analytics with advanced Charting tools
 
 **Info **- [https://info.pangolin.exchange/#/home](https://info.pangolin.exchange/#/home)
 
@@ -76,7 +76,7 @@ Pangolin Protocol Analytics with advanced Charting
 
 ### Governance / Vote :ballot\_box:&#x20;
 
-**PNG **tokens represent voting shares in Pangolin governance. You can vote on each proposal yourself or delegate your votes to a third party. To be eligible to vote, you **must hold PNG** in your wallet and delegate it at the start of voting. After voting has begun, you may pool or spend your PNG. Governance votes are decided by simple majority. There is no quorum threshold.
+$PNG** **tokens represent voting shares in Pangolin governance. You can vote on each proposal yourself or delegate your votes to a third party. To be eligible to vote, you **must hold **$PNG in your wallet and delegate it at the start of voting. After voting has begun, you may pool or spend your $PNG. Governance votes are decided by simple majority. There is no quorum threshold.
 
 **Vote **- [https://app.pangolin.exchange/#/vote](https://app.pangolin.exchange/#/vote)
 
