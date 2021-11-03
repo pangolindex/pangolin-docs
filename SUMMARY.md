@@ -1,9 +1,9 @@
 # Table of contents
 
-* [🟨 Welcome](README.md)
+* [🟨 Introduction](README.md)
 * [💛 Pangonomics](pangonomics.md)
 * [🟡 Learn how to](getting-started-on-pangolin/README.md)
-  * [🪙 Swap](getting-started-on-pangolin/trading.md)
+  * [🪙 Swap Tokens](getting-started-on-pangolin/trading.md)
   * [💳 Buy with Credit Card](getting-started-on-pangolin/buy-with-credit-card/README.md)
     * [💱 Supported Currencies](getting-started-on-pangolin/buy-with-credit-card/supported-currencies.md)
     * [ℹ Service & Fees](getting-started-on-pangolin/buy-with-credit-card/service-and-fees.md)

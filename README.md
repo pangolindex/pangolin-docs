@@ -1,10 +1,10 @@
 ---
-description: Introduction to Pangolin, a prime DEX in the Avalanche Ecosystm
+description: Pangolin Exchange - primer DEX on Avalanche
 ---
 
-# 🟨 Welcome
+# 🟨 Introduction
 
-![](.gitbook/assets/logo.svg)
+![](<.gitbook/assets/logo (2) (1).png>)
 
 ## About Pangolin
 
@@ -16,13 +16,13 @@ Pangolin is a decentralized exchange (DEX) which runs on Avalanche, uses the sam
 
 **Third**, but not least, Pangolin features a **100% community-focused token distribution** model, meaning that all tokens are distributed directly to the community, without any allocations to team, advisors, investors, or insiders.
 
-## The Pangolin Platform
+## Pangolin&#x20;
 
 
 
-### **Swap **:coin:&#x20;
+### **Swap Tokens **:coin:&#x20;
 
-Swap Avalanche tokens with fast finality and low transaction fees
+Swap Avalanche tokens with fast finality and low transaction fees, [...read more](getting-started-on-pangolin/trading.md)
 
 **Swap **- [https://app.pangolin.exchange/#/swap](https://app.pangolin.exchange/#/swap)
 
@@ -30,7 +30,7 @@ Swap Avalanche tokens with fast finality and low transaction fees
 
 ### Buy with Credit Card :credit\_card:&#x20;
 
-Pangolin DEX supports payments with Credit Card and Apple Pay™
+Pangolin DEX supports payments with Credit Card and Apple Pay™ [...read more](getting-started-on-pangolin/buy-with-credit-card/)
 
 ![](.gitbook/assets/visa-logo.png) ![](.gitbook/assets/mc-logo-52.svg) ![](https://app.pangolin.exchange/static/media/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
 
@@ -44,7 +44,7 @@ Pangolin does not store your purchase history or any personal data!
 
 ### Providing Liquidity :aquarius:&#x20;
 
-Liquidity providers **earn a 0.25% fee** on **all trades** proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity.
+Liquidity providers **earn a 0.25% fee** on **all trades** proportional to their share of the pool. Fees are added to the pool, accrue in real time and can be claimed by withdrawing your liquidity, [...read more](getting-started-on-pangolin/stake-liquidity.md)
 
 **Pool** - [https://app.pangolin.exchange/#/pool](https://app.pangolin.exchange/#/pool)
 
@@ -52,7 +52,7 @@ Liquidity providers **earn a 0.25% fee** on **all trades** proportional to their
 
 ### Liquidity Mining :pick:&#x20;
 
-**Deposit **your Pangolin Liquidity Provider $PGL tokens to **receive **$PNG** rewards**, the Pangolin protocol governance token.
+**Deposit **your Pangolin Liquidity Provider $PGL tokens to **receive **$PNG** rewards**, the Pangolin protocol governance token, [...read more](getting-started-on-pangolin/liquidity-mining.md)
 
 **Farm **- [https://app.pangolin.exchange/#/png/1](https://app.pangolin.exchange/#/png/1)
 
@@ -60,7 +60,7 @@ Liquidity providers **earn a 0.25% fee** on **all trades** proportional to their
 
 ### PNG staking :cut\_of\_meat:&#x20;
 
-**Deposit** and single stake your $PNG tokens to earn $AVAX, $OOE, $APEIN.
+**Deposit** and single stake your $PNG tokens to earn $AVAX, $OOE, $APEIN, [...read more](getting-started-on-pangolin/staking-png.md)
 
 **Stake **- [https://app.pangolin.exchange/#/stake/0](https://app.pangolin.exchange/#/stake/0)
 
@@ -68,7 +68,7 @@ Liquidity providers **earn a 0.25% fee** on **all trades** proportional to their
 
 ### Analytics :bar\_chart:&#x20;
 
-Pangolin Protocol Analytics with advanced Charting tools
+Pangolin Protocol Analytics with advanced Charting tools, [...read more](getting-started-on-pangolin/analytics.md)
 
 **Info **- [https://info.pangolin.exchange/#/home](https://info.pangolin.exchange/#/home)
 
@@ -76,7 +76,7 @@ Pangolin Protocol Analytics with advanced Charting tools
 
 ### Governance / Vote :ballot\_box:&#x20;
 
-$PNG** **tokens represent voting shares in Pangolin governance. You can vote on each proposal yourself or delegate your votes to a third party. To be eligible to vote, you **must hold **$PNG in your wallet and delegate it at the start of voting. After voting has begun, you may pool or spend your $PNG. Governance votes are decided by simple majority. There is no quorum threshold.
+$PNG** **tokens represent voting shares in Pangolin governance. You can vote on each proposal yourself or delegate your votes to a third party. To be eligible to vote, you **must hold **$PNG in your wallet and delegate it at the start of voting. After voting has begun, you may pool or spend your $PNG. Governance votes are decided by simple majority. There is no quorum threshold, [...read more](getting-started-on-pangolin/governance-vote.md)
 
 **Vote **- [https://app.pangolin.exchange/#/vote](https://app.pangolin.exchange/#/vote)
 
@@ -84,7 +84,7 @@ $PNG** **tokens represent voting shares in Pangolin governance. You can vote on 
 
 ### Community Forum :information\_source:&#x20;
 
-Join the Community Forum and shape the future of Pangolin.
+Join the Community Forum and shape the future of Pangolin, [...read more](getting-started-on-pangolin/community-forum.md)
 
 **Forum **- [https://gov.pangolin.exchange/](https://gov.pangolin.exchange)
 
