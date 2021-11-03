@@ -1,10 +1,10 @@
 ---
-description: Welcome to Pangolin Exchange - primer DEX on Avalanche
+description: Welcome to Pangolin Exchange - the premier DEX on Avalanche 🔺
 ---
 
 # 🟨 Introduction
 
-![Scale Your DeFi Trading](<.gitbook/assets/logo (2) (1).png>)
+![](<.gitbook/assets/logo (2) (1).png>)
 
 ## About us
 
