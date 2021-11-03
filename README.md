@@ -22,7 +22,7 @@ Pangolin is a decentralized exchange (DEX) which runs on Avalanche, uses the sam
 
 ### **Swap **:coin:&#x20;
 
-Swap tokens with fast finality and low transaction fees.
+Swap Avalanche tokens with fast finality and low transaction fees
 
 **Swap **- [https://app.pangolin.exchange/#/swap](https://app.pangolin.exchange/#/swap)
 
@@ -30,7 +30,7 @@ Swap tokens with fast finality and low transaction fees.
 
 ### Buy with Credit Card :credit\_card:&#x20;
 
-Pangolin DEX supports the purchase of** $AVAX** with a Credit Card or Apple Pay™
+Pangolin DEX supports payments with Credit Card and Apple Pay™
 
 ![](.gitbook/assets/visa-logo.png) ![](.gitbook/assets/mc-logo-52.svg) ![](https://app.pangolin.exchange/static/media/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
 
