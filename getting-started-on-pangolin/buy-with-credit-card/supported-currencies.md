@@ -24,4 +24,3 @@ We support a number of fiat currencies and cryptocurrencies including BTC, ETH a
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | <p><strong>BTC</strong> - Bitcoin<br><strong>ETH</strong> - Ethereum<br><strong>USDT</strong> - Tether<br><strong>USDC</strong> - USD Coin<br><strong>LINK</strong> - Chainlink</p> |
 
-Updated 5 days ago
