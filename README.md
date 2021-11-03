@@ -30,7 +30,7 @@ Swap tokens with fast finality and low transaction fees.
 
 Pangolin DEX supports the purchase of** $AVAX** with a Credit Card or Apple Pay™
 
-![](https://www.sendwyre.com/\_nuxt/img/logo.df3e54b.svg)![](https://app.pangolin.exchange/static/media/Visa\_Brandmark\_White\_RGB\_2021.44350dff.png)![](https://app.pangolin.exchange/static/media/mc\_hrz\_rev\_white.fb0efb16.svg)![](https://app.pangolin.exchange/static/media/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
+![](https://www.sendwyre.com/\_nuxt/img/logo.df3e54b.svg) ![](.gitbook/assets/visa-logo.png) ![](.gitbook/assets/mc-logo-52.svg) ![](https://app.pangolin.exchange/static/media/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
 
 {% hint style="info" %}
 Pangolin does not store your purchase history or any personal data!
@@ -84,4 +84,5 @@ Pangolin Protocol Analytics with advanced Charting
 
 Join the Community Forum and shape the future of Pangolin.
 
-Forum - [https://gov.pangolin.exchange/](https://gov.pangolin.exchange)
+**Forum **- [https://gov.pangolin.exchange/](https://gov.pangolin.exchange)
+

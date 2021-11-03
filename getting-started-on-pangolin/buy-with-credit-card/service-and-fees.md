@@ -4,7 +4,7 @@ description: 'source: Wyre'
 
 # ℹ Service & Fees
 
-powered by ![](../../.gitbook/assets/logo.df3e54b.svg)![](../../.gitbook/assets/Visa\_Brandmark\_White\_RGB\_2021.44350dff.png)![](../../.gitbook/assets/mc\_hrz\_rev\_white.fb0efb16.svg)![](../../.gitbook/assets/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
+powered by ![](../../.gitbook/assets/logo.df3e54b.svg) ![](../../.gitbook/assets/visa-logo.png) ![](../../.gitbook/assets/mc-logo-52.svg) ![](../../.gitbook/assets/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
 
 | Payment Method Type | Service Area  | Fees         |
 | ------------------- | ------------- | ------------ |
