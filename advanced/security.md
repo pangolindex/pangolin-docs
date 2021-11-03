@@ -20,9 +20,9 @@ From January 8th to April 30th 2020, a team of six engineers reviewed and formal
 
 Halborn used automated testing techniques to enhance coverage of certain areas of the scoped contract. Among the tools used was Slither, a Solidity static analysis framework. After Halborn verified all the contracts in the repository and was able to compile them correctly into their abi and binary formats. This tool can statically verify mathematical relationships between Solidity variables to detect invalid or inconsistent usage of the contracts’ APIs across the entire code-base.
 
-### Pangolin Smart Contract Security Audit
+### Pangolin Smart Contract Security Audit :new:
 
-{% embed url="https://files.gitbook.com/v0/b/gitbook-x-prod.appspot.com/o/spaces%2F-McHMStkb0tr7Zh5ZtyD%2Fuploads%2FNp8iKAkYIHKzaM8krh3P%2FPangolin_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf?alt=media&token=e6451799-8bfe-49b4-95a0-9eeb049f0963" %}
+{% file src="../.gitbook/assets/Pangolin_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf" %}
 
 ### Pangolin & Ava Labs
 

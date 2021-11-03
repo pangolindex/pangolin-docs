@@ -19,7 +19,7 @@
   * [🛡 Security](advanced/security.md)
   * [🐛 Bug Bounty](advanced/bug-bounty.md)
 * [🪙 Buy PNG](buy-png.md)
-* [🔎 PNG Metrics](track-png.md)
+* [🔎 PNG Metrics](png-metrics.md)
 * [🔺 Avalanche Guides](avalanche-guides/README.md)
   * [🦊 Set Up MetaMask](avalanche-guides/set-up-metamask.md)
   * [💰 Fund Your MetaMask](avalanche-guides/fund-your-metamask.md)

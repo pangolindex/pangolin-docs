@@ -4,11 +4,9 @@ description: Track Markets, Socials and more
 
 # 🔎 PNG Metrics
 
-#### TradingView
+#### **TradingView**
 
 {% embed url="https://www.tradingview.com/chart/t5dIu7qv?symbol=PANGOLIN%3APNGWAVAX" %}
-PNG WAVAX Pair
-{% endembed %}
 
 #### **Token Terminal**
 
