@@ -16,9 +16,7 @@ Second, beyond the significant performance upgrades to the technical status quo,
 
 Third, but not least, Pangolin features a 100% community-focused token distribution model, meaning that all tokens are distributed directly to the community, without any allocations to team, advisors, investors, or insiders.
 
-
-
-## Pangolin - Scale Your DeFi Trading
+## Scale Your DeFi Trading on Avalanche :small\_red\_triangle:
 
 
 

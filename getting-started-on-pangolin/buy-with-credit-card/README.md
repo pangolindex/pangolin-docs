@@ -1,7 +1,7 @@
 ---
 description: Pangolin DEX supports payments with Credit Card and Apple Pay™
 cover: >-
-  https://images.unsplash.com/photo-1537724326059-2ea20251b9c8?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw2fHxjcmVkaXQlMjBjYXJkfGVufDB8fHx8MTYzNTg3MTM1OQ&ixlib=rb-1.2.1&q=85
+  https://images.unsplash.com/photo-1571715268998-d6e79bed5fc9?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8Y2FyZHxlbnwwfHx8fDE2MzU5NjI0ODI&ixlib=rb-1.2.1&q=85
 coverY: 0
 ---
 

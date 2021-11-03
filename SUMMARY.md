@@ -5,7 +5,7 @@
 * [🟡 Learn how to](getting-started-on-pangolin/README.md)
   * [🪙 Swap Tokens](getting-started-on-pangolin/trading.md)
   * [💳 Buy with Credit Card](getting-started-on-pangolin/buy-with-credit-card/README.md)
-    * [💱 Supported Currencies](getting-started-on-pangolin/buy-with-credit-card/supported-currencies.md)
+    * [💵 Supported Currencies](getting-started-on-pangolin/buy-with-credit-card/supported-currencies.md)
     * [ℹ Service & Fees](getting-started-on-pangolin/buy-with-credit-card/service-and-fees.md)
   * [♒ Providing Liquidity](getting-started-on-pangolin/stake-liquidity.md)
   * [⛏ Liquidity Mining](getting-started-on-pangolin/liquidity-mining.md)
