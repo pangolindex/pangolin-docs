@@ -24,6 +24,10 @@ description: Track Markets, Socials and more
 
 {% embed url="https://nomics.com/assets/png2-pangolin" %}
 
+#### AVAXholic
+
+{% embed url="https://avaxholic.com/pangolin-brief-overview" %}
+
 **DappRadar**
 
 {% embed url="https://dappradar.com/avalanche/defi/pangolin-exchange" %}
