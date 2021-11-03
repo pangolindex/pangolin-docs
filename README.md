@@ -1,10 +1,10 @@
 ---
-description: Introduction to one of the prime DEXs in the Avalanche Ecosystm
-cover: .gitbook/assets/logo.svg
-coverY: 0
+description: Introduction to Pangolin, a prime DEX in the Avalanche Ecosystm
 ---
 
 # 🟨 Welcome
+
+![](.gitbook/assets/logo.svg)
 
 ## About Pangolin
 
