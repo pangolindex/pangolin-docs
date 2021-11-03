@@ -10,7 +10,7 @@ description: Welcome to Pangolin Exchange
 
 ### Pangolin Exchange - Scale your DeFi Trading
 
-Premier DEX on the Avalanche :small\_red\_triangle: Blockchain
+#### Premier DEX on the Avalanche :small\_red\_triangle: Blockchain
 
 
 

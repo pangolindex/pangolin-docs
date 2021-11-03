@@ -13,34 +13,36 @@
   * [🗳 Governance / Vote](getting-started-on-pangolin/governance-vote.md)
   * [📈 Analytics](getting-started-on-pangolin/analytics.md)
   * [ℹ Community Forum](getting-started-on-pangolin/community-forum.md)
-* [⚜ Advanced](advanced/README.md)
-  * [🧀 Fees](advanced/fees.md)
-  * [📊 Pricing](advanced/pricing.md)
-  * [🛡 Security](advanced/security.md)
-  * [🐛 Bug Bounty](advanced/bug-bounty.md)
-* [🪙 Buy PNG](buy-png.md)
-* [🔎 PNG Metrics](png-metrics.md)
 * [🔺 Avalanche Guides](avalanche-guides/README.md)
   * [🦊 Set Up MetaMask](avalanche-guides/set-up-metamask.md)
   * [💰 Fund Your MetaMask](avalanche-guides/fund-your-metamask.md)
   * [🆎 The Avalanche Bridge](avalanche-guides/the-avalanche-bridge.md)
   * [💸 Bridge Tokens](avalanche-guides/bridge-tokens.md)
-* [📒 Developer Documention](developer-documention/README.md)
-  * [Adding a token to the tokenlist](developer-documention/adding-a-token-to-the-tokenlists.md)
-  * [Common Pangolin contracts](developer-documention/common-pangolin-contracts.md)
-  * [Adding new pools](developer-documention/adding-new-pools.md)
+* [⚜ Advanced](advanced/README.md)
+  * [🧀 Fees](advanced/fees.md)
+  * [📊 Pricing](advanced/pricing.md)
+* [🔎 PNG Metrics](png-metrics.md)
+* [🪙 Buy PNG](buy-png.md)
 
-## Pangolin Community Tools
+## 🛠 Community Tools
 
-* [🤝 Multisig](pangolin-community-tools/multisig.md)
+* [📒 Developer Documention](community-tools/developer-documention/README.md)
+  * [➕ Adding a token to the tokenlist](community-tools/developer-documention/adding-a-token-to-the-tokenlists.md)
+  * [🆔 Common Pangolin contracts](community-tools/developer-documention/common-pangolin-contracts.md)
+  * [Adding new pools](community-tools/developer-documention/adding-new-pools.md)
+* [🤝 Multisig](community-tools/multisig.md)
+* [🐛 Bug Bounty](community-tools/bug-bounty.md)
 
-## GitHub Pangolin
+## ☑ Pangolin Verified
+
+* [🛡 Security Audits](pangolin-verified/security.md)
+
+## 👩💻 Pangolin Github <a href="github-pangolin" id="github-pangolin"></a>
 
 ***
 
-* [Exchange Contracts](exchange-contracts.md)
-* [Tokenlists](tokenlists.md)
-* [Subgraph](subgraph.md)
-* [Governance](governance.md)
-* [API](api.md)
-* [Link Tree](https://linktr.ee/pangolinDEX)
+* [🏭 Exchange Contracts](exchange-contracts.md)
+* [® Tokenlists](tokenlists.md)
+* [🧑💻 Subgraph](subgraph.md)
+* [📒 Governance](governance.md)
+* [⚙ API](api.md)

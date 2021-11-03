@@ -2,7 +2,7 @@
 description: Pangolin, a Uniswap V2 protocol fork
 ---
 
-# 🛡 Security
+# 🛡 Security Audits
 
 {% hint style="success" %}
 **Pangolin** is one of the safest protocols on **Avalanche**: Forked from Uniswap V2 and every new deployed contract is audited by **Halborn**
@@ -33,3 +33,11 @@ Halborn used automated testing techniques to enhance coverage of certain areas o
 #### Learn more about Halborn
 
 {% embed url="https://halborn.com/" %}
+
+#### RugDoc Review
+
+{% embed url="https://rugdoc.io/project/pangolin-exchange" %}
+
+#### Rugpull Prevention - Detective Scores
+
+{% embed url="https://rugpullprevention.com/pangolin-score" %}

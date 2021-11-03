@@ -1,4 +1,4 @@
-# Adding a token to the tokenlist
+# ➕ Adding a token to the tokenlist
 
 ### **Adding a token logo**
 

@@ -2,7 +2,7 @@
 description: Governance contracts for Pangolin
 ---
 
-# Governance
+# 📒 Governance
 
 ## Pangolin Governance
 
@@ -31,6 +31,3 @@ This repo contains all of the governance contracts for the Pangolin Dex.
 Forked from [Compound Governance](https://github.com/compound-finance/compound-protocol/tree/v2.8.1) and [Uniswap Governance](https://github.com/Uniswap/governance)
 
 {% embed url="https://github.com/pangolindex/governance" %}
-
-
-
