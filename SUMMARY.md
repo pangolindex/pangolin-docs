@@ -39,10 +39,8 @@
 
 ## 👩💻 Pangolin Github <a href="github-pangolin" id="github-pangolin"></a>
 
-***
-
-* [🏭 Exchange Contracts](exchange-contracts.md)
-* [® Tokenlists](tokenlists.md)
-* [🧑💻 Subgraph](subgraph.md)
-* [📒 Governance](governance.md)
-* [⚙ API](api.md)
+* [🏭 Exchange Contracts](github-pangolin/exchange-contracts.md)
+* [® Tokenlists](github-pangolin/tokenlists.md)
+* [🧑💻 Subgraph](github-pangolin/subgraph.md)
+* [📒 Governance](github-pangolin/governance.md)
+* [⚙ API](github-pangolin/api.md)
