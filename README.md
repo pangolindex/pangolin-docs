@@ -28,7 +28,7 @@ Third, but not least, Pangolin features a 100% community-focused token distribut
 
 ### **Swap Tokens **:coin:&#x20;
 
-Swap Avalanche tokens with fast finality and low transaction fees [\[more\]](getting-started-on-pangolin/trading.md)
+Swap Avalanche tokens with fast finality and low transaction fees [\[more\]](learn-how-to/swap-tokens.md)
 
 Swap tokens here » [https://app.pangolin.exchange/#/swap](https://app.pangolin.exchange/#/swap)
 
@@ -36,7 +36,7 @@ Swap tokens here » [https://app.pangolin.exchange/#/swap](https://app.pangolin.
 
 ### Buy with Credit Card :credit\_card:&#x20;
 
-Pangolin DEX supports payments with Credit Card and Apple Pay™ [\[more\]](getting-started-on-pangolin/buy-with-credit-card/)
+Pangolin DEX supports payments with Credit Card and Apple Pay™ [\[more\]](learn-how-to/buy-with-credit-card/)
 
 ![](.gitbook/assets/visa-logo.png) ![](.gitbook/assets/mc-logo-52.svg) ![](https://app.pangolin.exchange/static/media/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
 
@@ -46,7 +46,7 @@ Buy AVAX here » [https://app.pangolin.exchange/#/buy](https://app.pangolin.exch
 
 ### Providing Liquidity :aquarius:&#x20;
 
-Add Liquidity and earn 0.25% fee on all trades proportional to the share of the pool [\[more\]](getting-started-on-pangolin/stake-liquidity.md)
+Add Liquidity and earn 0.25% fee on all trades proportional to the share of the pool [\[more\]](learn-how-to/stake-liquidity.md)
 
 Add liquidity here » [https://app.pangolin.exchange/#/pool](https://app.pangolin.exchange/#/pool)
 
@@ -54,7 +54,7 @@ Add liquidity here » [https://app.pangolin.exchange/#/pool](https://app.pangoli
 
 ### Liquidity Mining :pick:&#x20;
 
-Stake your PGL tokens and earn PNG rewards [\[more\]](getting-started-on-pangolin/liquidity-mining.md)
+Stake your PGL tokens and earn PNG rewards [\[more\]](learn-how-to/mine-liquidity.md)
 
 Farm PNG here » [https://app.pangolin.exchange/#/png/1](https://app.pangolin.exchange/#/png/1)
 
@@ -62,7 +62,7 @@ Farm PNG here » [https://app.pangolin.exchange/#/png/1](https://app.pangolin.ex
 
 ### PNG staking :cut\_of\_meat:&#x20;
 
-PNG single staking (without IL) earn AVAX, OOE, APEIN rewards [\[more\]](getting-started-on-pangolin/staking-png.md)
+PNG single staking (without IL) earn AVAX, OOE, APEIN rewards [\[more\]](learn-how-to/stake-png.md)
 
 Stake PNG here » [https://app.pangolin.exchange/#/stake/0](https://app.pangolin.exchange/#/stake/0)
 
@@ -70,7 +70,7 @@ Stake PNG here » [https://app.pangolin.exchange/#/stake/0](https://app.pangolin
 
 ### Analytics :bar\_chart:&#x20;
 
-Pangolin Protocol Analytics with advanced charting tools [\[more\]](getting-started-on-pangolin/analytics.md)
+Pangolin Protocol Analytics with advanced charting tools [\[more\]](learn-how-to/use-analytics.md)
 
 More info here » [https://info.pangolin.exchange/#/home](https://info.pangolin.exchange/#/home)
 
@@ -78,7 +78,7 @@ More info here » [https://info.pangolin.exchange/#/home](https://info.pangolin.
 
 ### Governance / Vote :ballot\_box:&#x20;
 
-PNG tokens represent voting shares in Pangolin governance, you can vote on each proposal [\[more\]](getting-started-on-pangolin/governance-vote.md)
+PNG tokens represent voting shares in Pangolin governance, you can vote on each proposal [\[more\]](learn-how-to/vote.md)
 
 Vote here » [https://app.pangolin.exchange/#/vote](https://app.pangolin.exchange/#/vote)
 
@@ -86,6 +86,6 @@ Vote here » [https://app.pangolin.exchange/#/vote](https://app.pangolin.exchang
 
 ### Community Forum :information\_source:&#x20;
 
-Join the Community Forum and shape the future of Pangolin [\[more\]](getting-started-on-pangolin/community-forum.md)
+Join the Community Forum and shape the future of Pangolin [\[more\]](learn-how-to/use-the-forum.md)
 
 Join Forum here » [https://gov.pangolin.exchange/](https://gov.pangolin.exchange)
