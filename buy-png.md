@@ -16,21 +16,27 @@ description: Where to buy PNG tokens
 
 ## 1. Buy PNG on a DEX
 
-#### PNG is currently listed on +6 DEXs on Avalanche&#x20;
+#### PNG is currently listed on +9 DEXs on Avalanche&#x20;
 
 
 
-![](.gitbook/assets/pango.png) Pangolin Exchange PNG-AVAX | [Swap Now](https://app.pangolin.exchange/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
+![](.gitbook/assets/pango.png) Pangolin Exchange | [Swap Now](https://app.pangolin.exchange/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
 
-![](.gitbook/assets/joe.png)Trader Joe PNG-AVAX | [Swap Now](https://traderjoexyz.com/#/trade?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
+![](.gitbook/assets/joe.png) Trader Joe | [Swap Now](https://traderjoexyz.com/#/trade?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
 
-![](.gitbook/assets/canary.png) Canary PNG-AVAX | [Swap Now](https://app.canary.exchange/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
+![](.gitbook/assets/canary.png) Canary | [Swap Now](https://app.canary.exchange/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
 
-![](.gitbook/assets/yeti.png) Yeti Swap PNG-AVAX | [Swap Now](https://exchange.yetiswap.app/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
+![](.gitbook/assets/yeti.png) Yeti Swap | [Swap Now](https://exchange.yetiswap.app/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
 
-![](.gitbook/assets/lyd.png) Lydia Finance PNG-AVAX | [Swap Now](https://exchange.lydia.finance/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
+![](.gitbook/assets/lyd.png) Lydia Finance | [Swap Now](https://exchange.lydia.finance/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
 
-![](.gitbook/assets/markr.png) Markr.io PNG-AVAX | [Swap Now](https://markr.io/#/swap)
+![](.gitbook/assets/markr.png) Markr.io | [Swap Now](https://markr.io/#/swap)
+
+![](.gitbook/assets/party.png) PartySwap | [Swap Now](https://app.partyswap.io/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
+
+![](.gitbook/assets/complus.png) Complus Network | [Swap Now](https://avadex.complus.exchange/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
+
+![](.gitbook/assets/hct.png) Hurricane Swap | [Swap Now](https://hurricaneswap.com/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)
 
 ## 2. Buy PNG on a CEX
 
