@@ -16,15 +16,17 @@ description: Where to buy PNG tokens
 
 ## 1. Buy PNG on a DEX
 
-#### PNG is currently listed on 7 DEXs on Avalanche
+#### PNG is currently listed on +6 DEXs on Avalanche
 
-****[Pangolin](https://app.pangolin.exchange/#/swap) | [Trader Joe](https://www.traderjoexyz.com/#/trade) | [Canary](https://app.canary.exchange/#/swap) | [Complus](https://avadex.complus.exchange/#/swap) | [YetiSwap](https://exchange.yetiswap.app/#/swap) | [Lydia](https://exchange.lydia.finance/#/swap) | [Markr](https://markr.io/#/swap)
+![Pangolin ](.gitbook/assets/pango.png) ![Trader Joe](.gitbook/assets/joe.png) ![Canary](.gitbook/assets/canary.png) ![Yeti Swap](.gitbook/assets/yeti.png) ![Lydia Finance](.gitbook/assets/lyd.png) ![Markr.io](.gitbook/assets/markr.png)
+
+
 
 ## 2. Buy PNG on a CEX
 
 #### PNG is currently listed on 2 centralized exchanges
 
-**GateIO**
+**Gateio**
 
 {% embed url="https://www.gate.io/tradepro/PNG_USDT" %}
 
