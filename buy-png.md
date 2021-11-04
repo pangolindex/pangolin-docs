@@ -1,5 +1,5 @@
 ---
-description: Where to buy $PNG tokens
+description: Where to buy PNG tokens
 ---
 
 # 🪙 Buy PNG
