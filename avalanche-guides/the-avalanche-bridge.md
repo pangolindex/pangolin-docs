@@ -35,7 +35,7 @@ The Avalanche Bridge (AB) can be used to transfer ERC20 tokens from Ethereum to 
 
 ![](../.gitbook/assets/bridge6.png)
 
-**Congratulations**! You bridged your **ERC20 **tokens to **Avalanche**. These tokens can now be used to swap for another token or add liquidity to a pool on **Pangolin**.
+**Congratulations**! You bridged your **ERC20 **tokens to Avalanche. These tokens can now be used to swap for another token or add liquidity to a pool on Pangolin.
 
 ### Useful Links
 
@@ -44,6 +44,3 @@ The Avalanche Bridge (AB) can be used to transfer ERC20 tokens from Ethereum to 
 {% embed url="https://docs.avax.network/learn/avalanche-bridge-faq" %}
 
 {% embed url="https://tokenlists.org/token-list?url=https://raw.githubusercontent.com/pangolindex/tokenlists/main/ab.tokenlist.json" %}
-
-
-

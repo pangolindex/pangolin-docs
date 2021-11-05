@@ -6,10 +6,10 @@ description: Deposit your PGL token to earn PNG token
 
 ## Using your Liquidity Provider Tokens (PGL) to Earn the Pangolin Governance Token (PNG)
 
-After you successfully create a pool or add liquidity to an existing pool, you receive **PGL **tokens. These tokens are a **representation of your ownership** in a pool. You may **use **those **PGL **tokens to **earn** the **PNG **governance token by depositing them into one of your participating pools.
+After you successfully create a pool or add liquidity to an existing pool, you receive PGL tokens. These tokens are a representation of your ownership in a pool. You may use those PGL tokens to earn the PNG governance token by depositing them into one of your participating pools.
 
 {% hint style="info" %}
-**You may only receive PNG rewards from supported pools**
+You may only receive PNG rewards from supported pools
 {% endhint %}
 
 ### Depositing PGL Tokens
@@ -28,7 +28,7 @@ After you successfully create a pool or add liquidity to an existing pool, you r
 
 ![](../.gitbook/assets/pgl3.png)
 
-5\. Enter the amount of **PGL **tokens you would like to deposit
+5\. Enter the amount of PGL tokens you would like to deposit
 
 ![](../.gitbook/assets/pgl4.png)
 
@@ -38,13 +38,13 @@ After you successfully create a pool or add liquidity to an existing pool, you r
 
 ### Claiming PNG Tokens without Withdrawing PGL Tokens
 
-After depositing your **PGL **tokens into a pool, you will accrue **PNG **tokens. You can claim your earned **PNG **tokens without having to remove your **PGL **tokens.
+After depositing your PGL tokens into a pool, you will accrue PNG tokens. You can claim your earned PNG tokens without having to remove your PGL tokens.
 
 1\. Select "**PNG**"
 
 ![](<../.gitbook/assets/pgl1 (1).png>)
 
-2\. Select "**Manage**" on the pool you would like to claim your **PNG **tokens from
+2\. Select "**Manage**" on the pool you would like to claim your PNG tokens from
 
 ![](../.gitbook/assets/pgl10.png)
 
@@ -52,15 +52,15 @@ After depositing your **PGL **tokens into a pool, you will accrue **PNG **tokens
 
 ![](../.gitbook/assets/pgl7.png)
 
-4\. Select "**Claim**" again and confirm the transaction through **MetaMask**
+4\. Select "**Claim**" again and confirm the transaction through MetaMask
 
 ![](../.gitbook/assets/pgl8.png)
 
-**Congratulations**! You have just received your **PNG **rewards without removing your **PGL **tokens.
+**Congratulations**! You have just received your PNG rewards without removing your PGL tokens.
 
 ### Withdrawing PGL Tokens
 
-After depositing your **PGL **tokens into a pool, you may claim your PNG tokens by withdrawing your **PGL **tokens
+After depositing your PGL tokens into a pool, you may claim your PNG tokens by withdrawing your PGL tokens
 
 1\. Select "**PNG**"
 
@@ -78,6 +78,6 @@ After depositing your **PGL **tokens into a pool, you may claim your PNG tokens 
 
 ![](../.gitbook/assets/pgl12.png)
 
-5\. **Confirm **the transaction on **MetaMask**
+5\. **Confirm **the transaction on MetaMask
 
-**Congratulations**! You have successfully withdrawn your **PGL **tokens and **PNG **token rewards.
+**Congratulations**! You have successfully withdrawn your PGL tokens and PNG token rewards.

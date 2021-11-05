@@ -12,7 +12,7 @@ description: Set up your crypto wallet for the Avalanche Network
 
 **URL **:arrow\_down\_small:**  **[_https://metamask.io/download.html_](https://metamask.io/download.html)
 
-### 2. Install **MetaMask (**_browser extension or mobile App - iOS / Android). _
+### 2. Install **MetaMask (**_browser extension or mobile App)_
 
 {% hint style="info" %}
 _The following browsers are supported - Chrome, FireFox, Brave, and Edge._** **
@@ -34,11 +34,11 @@ a. Click the drop-down menu and select "**Custom RPC**."
 
 b. Enter the following settings into the respective fields:
 
-* **Network Name**: Avalanche Network
-* **New RPC URL**: https://api.avax.network/ext/bc/C/rpc
-* **ChainID**: 43114
-* **Symbol**: AVAX
-* **Explorer**: https://cchain.explorer.avax.network/
+* Network Name: `Avalanche Network`
+* New RPC URL: `https://api.avax.network/ext/bc/C/rpc`
+* ChainID: `43114`
+* Symbol: `AVAX`
+* Explorer: `https://cchain.explorer.avax.network/`
 
 You have now successfully added the Avalanche Network RPC.
 
@@ -50,7 +50,7 @@ You have now successfully added the Avalanche Network RPC.
 
 ### 6. Enter the following information into the available fields:
 
-**PNG **Token Contract Address:&#x20;
+PNG Token Contract Address:&#x20;
 
 ```
 0x60781C2586D68229fde47564546784ab3fACA98
@@ -62,4 +62,4 @@ _Token Symbol and Decimals will be set automatically_
 
 7\. Select "**Next**" :white\_check\_mark:&#x20;
 
-You have now successfully added the **Pangolin **(**PNG**) token to be displayed on your **MetaMask**.
+You have now successfully added the Pangolin (PNG) token to be displayed on your MetaMask.

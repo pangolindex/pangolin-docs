@@ -4,11 +4,11 @@ description: Welcome to Pangolin Exchange
 
 # 🟨 Introduction
 
+Scale your DeFi Trading with premier DEX on Avalanche :small\_red\_triangle:
+
+####
+
 ![](<.gitbook/assets/logo (2) (1).png>)
-
-
-
-#### Premier DEX on Avalanche :small\_red\_triangle:- Scale your DeFi Trading
 
 
 

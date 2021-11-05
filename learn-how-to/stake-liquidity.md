@@ -52,7 +52,7 @@ Example: In this case, we want to deposit 1 AVAX. This will result in us having 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-Mi3HEoRCT6o5-M8yhBO%2F-MiDXuYvl7ojYJ-u9Lzc%2F-MiDf7xuaZiJAwzY4JAS%2Fliq5.png?alt=media\&token=161e3913-4d40-41b3-ad93-cabdd85840a0)
 
-c. Select "**Confirm Supply**" and **confirm **the transaction on **MetaMask**
+c. Select "**Confirm Supply**" and **confirm **the transaction on MetaMask
 
 ![](../.gitbook/assets/liq6.png)
 
@@ -66,10 +66,10 @@ You may view details about your position when you click on the "**Manage**" drop
 
 Here are four stats that give information about your position:
 
-1. **Your pool tokens**: tokens issued to you that **represent your position** in the liquidity pool
+1. Your pool tokens: tokens issued to you that represent your position in the liquidity pool
 2. Pooled Token #1
 3. Pooled Token #2
-4. **Your pool share**: the percentage of the liquidity pool that **your deposited tokens represent**
+4. Your pool share: the percentage of the liquidity pool that your deposited tokens represent
 
 ![](../.gitbook/assets/liq8.png)
 
@@ -83,13 +83,13 @@ Here are four stats that give information about your position:
 
 4\. Select "**Remove**"
 
-5\. Select "**Confirm**," and confirm the transaction on **MetaMask**
+5\. Select "**Confirm**," and confirm the transaction on MetaMask
 
 ![](../.gitbook/assets/liq10.png)
 
 ### **Adding Liquidity to your Liquidity Pools**
 
-If you would like to **add **more liquidity to your **existing liquidity pool**, you may do so with the following steps
+If you would like to add more liquidity to your existing liquidity pool, you may do so with the following steps
 
 1\. Select "**Manage**"
 
@@ -99,12 +99,12 @@ If you would like to **add **more liquidity to your **existing liquidity pool**,
 
 ![](../.gitbook/assets/liq12.png)
 
-3\. Determine the number of tokens you would like to add to the liquidity pool. In this case, we chose to add **1 PNG** token, which means we have to add an equal amount of **AVAX**
+3\. Determine the number of tokens you would like to add to the liquidity pool. In this case, we chose to add 1 PNG token, which means we have to add an equal amount of AVAX
 
 ![](../.gitbook/assets/liq13.png)
 
 4\. Select "**Supply**"
 
-5\. Select "**Confirm Supply**" and confirm the transaction on **MetaMask**
+5\. Select "**Confirm Supply**" and confirm the transaction on MetaMask
 
 ![](../.gitbook/assets/liq14.png)

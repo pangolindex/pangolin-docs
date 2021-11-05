@@ -10,7 +10,7 @@ At launch, the protocol charge is default to 0, and the liquidity provider fee i
 
 ## Liquidity provider fees
 
-There is a **0.30%** fee for swapping tokens. **This fee is split by liquidity providers proportional to their contribution to liquidity reserves.**
+There is a 0.30% fee for swapping tokens. This fee is split by liquidity providers proportional to their contribution to liquidity reserves.
 
 Swapping fees are immediately deposited into liquidity reserves. This increases the value of liquidity tokens, functioning as a payout to all liquidity providers proportional to their share of the pool. Fees are collected by burning liquidity tokens to remove a proportional share of the underlying reserves.
 
