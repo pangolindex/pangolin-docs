@@ -44,3 +44,7 @@
 * [🧑💻 Subgraph](github/subgraph.md)
 * [📒 Governance](github/governance.md)
 * [⚙ API](github/api.md)
+
+***
+
+* [PNG WAVAX Chart](png-wavax-chart.md)
