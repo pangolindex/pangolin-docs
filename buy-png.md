@@ -18,12 +18,12 @@ PNG is the native governance token of the **Pangolin Exchange** and can be used 
 
 #### PNG is currently listed on +9 DEXs on Avalanche&#x20;
 
-| [![](.gitbook/assets/pango.png) Pangolin Exchange](https://app.pangolin.exchange/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982) | [![](.gitbook/assets/markr.png) Markr.io](https://markr.io/#/swap)                                                                                   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![](.gitbook/assets/joe.png) Trader Joe](https://traderjoexyz.com/#/trade?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)              | [![](.gitbook/assets/party.png) PartySwap](https://app.partyswap.io/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)                |
-| [![](.gitbook/assets/canary.png) Canary](https://app.canary.exchange/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)             | [![](.gitbook/assets/complus.png) Complus Network](https://avadex.complus.exchange/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982) |
-| [![](.gitbook/assets/yeti.png) Yeti Swap](https://exchange.yetiswap.app/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)          | [![](.gitbook/assets/hct.png) Hurricane Swap](https://hurricaneswap.com/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)            |
-| [![](.gitbook/assets/lyd.png) Lydia Finance](https://exchange.lydia.finance/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)      |                                                                                                                                                      |
+| [![](.gitbook/assets/pango.png) Pangolin DEX](https://app.pangolin.exchange/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982) | [![](.gitbook/assets/markr.png) Markr.io](https://markr.io/#/swap)                                                                           |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [![](.gitbook/assets/joe.png) Trader Joe](https://traderjoexyz.com/#/trade?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)         | [![](.gitbook/assets/party.png) PartySwap](https://app.partyswap.io/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)        |
+| [![](.gitbook/assets/canary.png) Canary](https://app.canary.exchange/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)        | [![](.gitbook/assets/complus.png) Complus](https://avadex.complus.exchange/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982) |
+| [![](.gitbook/assets/yeti.png) Yeti Swap](https://exchange.yetiswap.app/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)     | [![](.gitbook/assets/hct.png) Hurricane Swap](https://hurricaneswap.com/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982)    |
+| [![](.gitbook/assets/lyd.png) Lydia Finance](https://exchange.lydia.finance/#/swap?outputCurrency=0x60781c2586d68229fde47564546784ab3faca982) |                                                                                                                                              |
 
 ## 2. Buy PNG on a CEX
 
