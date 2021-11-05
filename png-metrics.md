@@ -50,4 +50,4 @@ description: Track Markets, Socials and more
 
 #### TradingView
 
-{% embed url="https://www.tradingview.com/chart/t5dIu7qv?symbol=PANGOLIN%3APNGWAVAX" %}
+{% embed url="https://www.tradingview.com/chart?symbol=PANGOLIN%3APNGWAVAX" %}
