@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🟨 Introduction](README.md)
+* [🟨 Welcome to Pangolin](README.md)
 * [💛 Pangonomics](pangonomics.md)
 * [🟡 Learn how to](learn-how-to/README.md)
   * [🪙 Swap Tokens](learn-how-to/swap-tokens.md)
