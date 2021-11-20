@@ -5,18 +5,18 @@ description: Learn how to migrate your PGL tokens from V1 to V2 Farms
 # 🆕 Migrate to V2 Farms
 
 {% hint style="warning" %}
-In line with Pangolin’s upcoming Tokenomics change, you will need to migrate your existing Farms!
+To take part in **Pangolin V2 Farms**, you will need to migrate your existing Farms.
 {% endhint %}
 
 {% hint style="danger" %}
-<mark style="color:orange;">Version 1 Legacy Farms</mark> will no longer be receiving PNG rewards!
+<mark style="color:orange;">Version 1 Legacy Farms</mark> will <mark style="background-color:orange;">**no longer**</mark> be receiving PNG rewards!
 
 <mark style="color:yellow;">Version 2 Farms</mark> are the new incentivised farms that are eligible for emissions!
 {% endhint %}
 
 _This document will detail the process on how to perform the migration as well as help to allay any fears about Impermanent Loss._
 
-## Migrate your Farms
+## Migrate your V1 Farms
 
 There are now two separate farm sections - **Version 1** and **Version** **2**
 
