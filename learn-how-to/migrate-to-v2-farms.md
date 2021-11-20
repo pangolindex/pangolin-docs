@@ -38,7 +38,7 @@ After clicking “**Migrate Now**” the Pangolin Migration Wizard will pop up
 
 ![Pop-up with overview of all your V1 Farms which can be migrated](https://lh5.googleusercontent.com/N3dLjkBbBSrkH7vR5ldkl5qyr0649cL67h4kx5dcNeSrHu77Sji2pcUra8oXPIB\_u\_5qX7-zAkjpWbrWqLwu3Q08VrHa5ccYVKYC2hppy1fR1E2TL8RpTTW1OU1qx2WgnUf9NdOx)
 
-4\. Click on "**Select all**" to migrate all your V**1 Farms** at once _(or one by one)_
+4\. Click on "**Select all**" to migrate all your **V1 Farms** at once _(or one by one)_
 
 ![The wizard will guide you through the migration of each Farm you’ve selected](https://lh3.googleusercontent.com/yYU0c8t0C-QLPiAWmZTq2cg6K6W6cM7BS0-9dmwIUL674DmNfTg8HbV-Xf7lRad9plEmvdYeOVXMbLhj-8joS-bMbXyNWbEWJoFTNjCsEUoqtINh1aQ\_TzvQUxrBVz89rOWj4qE9)
 
