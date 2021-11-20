@@ -11,7 +11,7 @@ To take part in **Pangolin V2 Farms**, you will need to migrate your existing Fa
 {% hint style="danger" %}
 <mark style="color:orange;">Version 1 Legacy Farms</mark> will <mark style="background-color:orange;">**no longer**</mark> be receiving PNG rewards!
 
-<mark style="color:yellow;">Version 2 Farms</mark> are the new incentivised farms that are eligible for emissions!
+<mark style="color:yellow;">Version 2 Farms</mark> are the <mark style="background-color:yellow;">new incentivised farms</mark> that are eligible for emissions!
 {% endhint %}
 
 _This document will detail the process on how to perform the migration as well as help to allay any fears about Impermanent Loss._
