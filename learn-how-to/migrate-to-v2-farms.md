@@ -68,11 +68,11 @@ PGL represents your receipt token of your pooled pair (PNG-AVAX)
 
 _Here is an example with a PNG-AVAX Pool..._
 
-![14.6 PGL Token received for aprox. 111 PNG and 2.5 AVAX](https://lh6.googleusercontent.com/eHtf8a5kzRqFtxe69fok--d6vX1lcZdfXtzVwop\_AGnP2rsz639QX5E9wZEnXfFKvppmxoUYcbE\_Ng3Wf10FPzqQ7wj1k7YdfYgzLr1RRnB2wt3XXp9SH4wc-ls-Aq9U3i9-bAK7)
+We have a Pool with 14.6019 PGL in Pangolin **V1 Farms**.
+
+![14.6 PGL Token for aprox. 111 PNG and 2.5 AVAX](https://lh6.googleusercontent.com/eHtf8a5kzRqFtxe69fok--d6vX1lcZdfXtzVwop\_AGnP2rsz639QX5E9wZEnXfFKvppmxoUYcbE\_Ng3Wf10FPzqQ7wj1k7YdfYgzLr1RRnB2wt3XXp9SH4wc-ls-Aq9U3i9-bAK7)
 
 ![](https://lh4.googleusercontent.com/T5rOFRj1mvwj8cF-pjIAqRD\_Sv-tvlqrspvlzhVqOhwIfn-XV70ixHDU9y7TvOgM7H2CYdSmODU0AFBy\_rH0nLjeyMxYMdfChyRe4UgmDgCfcgXXEwdI\_hdwKWkDlTOlv3kjerup)
-
-We have a Pool with 14.6019 PGL in Pangolin **V1 Farms**.
 
 We now want to migrate to Pangolin’s **V2 Farms** by clicking the "**Migrate**" button
 
