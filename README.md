@@ -90,6 +90,6 @@ Join Forum here » [https://gov.pangolin.exchange/](https://gov.pangolin.exchang
 
 ### Migrate to V2 Farms :new:
 
-How to migrate your Legacy V1 Farms to the new V2 Farms [\[more\]](./#migrate-to-v2-farms)
+How to migrate your Legacy V1 Farms to the new V2 Farms [\[more\]](learn-how-to/migrate-to-v2-farms.md)
 
 Migrate Farms here » [https://app.pangolin.exchange/#/pool](https://app.pangolin.exchange/#/pool)
