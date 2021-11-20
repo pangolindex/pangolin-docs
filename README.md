@@ -85,3 +85,11 @@ Vote here » [https://app.pangolin.exchange/#/vote](https://app.pangolin.exchang
 Join the Community Forum and shape the future of Pangolin [\[more\]](learn-how-to/use-the-forum.md)
 
 Join Forum here » [https://gov.pangolin.exchange/](https://gov.pangolin.exchange)
+
+
+
+### Migrate to V2 Farms :new:
+
+How to migrate your Legacy V1 Farms to the new V2 Farms [\[more\]](./#migrate-to-v2-farms)
+
+Migrate Farms here » [https://app.pangolin.exchange/#/pool](https://app.pangolin.exchange/#/pool)
