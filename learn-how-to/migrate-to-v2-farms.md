@@ -11,7 +11,7 @@ To take part in **Pangolin V2 Farms**, you will need to migrate your existing Fa
 {% hint style="danger" %}
 <mark style="color:orange;">Version 1 Legacy Farms</mark> will <mark style="background-color:orange;">**no longer**</mark> be receiving PNG rewards!
 
-<mark style="color:yellow;">Version 2 Farms</mark> are the <mark style="background-color:yellow;">new incentivised farms</mark> that are eligible for emissions!
+<mark style="color:yellow;">Version 2 Farms</mark> are the <mark style="background-color:yellow;">**new incentivised farms**</mark> that are eligible for emissions!
 {% endhint %}
 
 _This document will detail the process on how to perform the migration as well as help to allay any fears about Impermanent Loss._
@@ -30,7 +30,7 @@ There are now two separate farm sections - **Version 1** and **Version** **2**
 
 ![Pangolin Migration Wizard](https://lh4.googleusercontent.com/Z0SS-ofqEuHP8q7Aa7BlTsxq1a\_R13UfqdRQTKsSKZNgw\_l5ghlzvE2L9yNP9ch4tF8c3mS8sMXqyjC-cCbllb\_Y\_mCRQQn7HbMODFnV0LB\_Q-6VPglwTY\_P86YtFds8Ao8KbYs-)
 
-3\. Click on "**Migrate Now**" or scroll to bottom to you see all V**1 Farms** that need to be migrated
+3\. Click on "**Migrate Now**" or scroll to bottom to you see all **V1 Farms** that need to be migrated
 
 ![V1 Farms which can be migrated to V2](https://lh4.googleusercontent.com/HFwk11Xg\_NhNskKRijMo-8\_jCAKLNwJX6VxODdUbrtvFDrdaazoRC5kAiyQTP4evttmANRQMxcxdecIFxR214eY87ZcXzV7t5KSNguxCUVAmsWZazgEf8Rep\_fUPcMWkBCK5U6Dl)
 
@@ -50,9 +50,9 @@ After clicking “**Migrate Now**” the Pangolin Migration Wizard will pop up
 
 &#x20;               ![](https://lh5.googleusercontent.com/tkR49nZxpS5LR4TL3sFYtn-SCZJS8i1mJRPINpZs4LY7\_p9cnz-GaTYJmxCXMUlHVYEP2qGzZEOIbaSPBt6JLtmA0ypgu7zQw0hFafISgZ9I7bQg4nP18lLRN0qnlUFM3XJ6cP9f)![](https://lh4.googleusercontent.com/Ru\_64CTQ8buqshIp-DhTTF3GLw7amCmhhSLsxVDOH6SBK3iYqc3H9yFIWVQGzoztPRpE33GOyIGMK-W-0xNiM4NiKlr382DGuFN4knHCVMUErQR-XqOVvwpDvR6VJSKTj333Q4Td)
 
-7\. Click on "**Approve**" for each Pool to stake in V**2 farms**
+7\. Click on "**Approve**" for each Pool to stake in **V2 Farms**
 
-**Congratulations**, you have migrated your V**1 farms** to the new V**2 farms** :partying\_face:
+**Congratulations**, you have migrated your **V1 Farms** to the new **V2 Farms** :partying\_face:
 
 ## Understanding Impermanent Loss (IL) implications
 
@@ -78,6 +78,6 @@ We now want to migrate to Pangolin’s **V2 Farms** by clicking the "**Migrate**
 
 ![](https://lh5.googleusercontent.com/7ns9iWSEfD6UCBILZ\_aETgi4prSZoosTcBfciv2Exc9SWbpAoEp-qsgtvRAROcnMI1HcTQ\_RfFtJ1q1tRONxuEdtPO72mw1WxEKF4\_v2wAY1-Pa00y281f7hyKCwPHOPb2x04vwW)
 
-You still have the exact same amount of 14.6019 PGL tokens.
+You still have the exact same amount of **14.6019 PGL** tokens.
 
-This is because it didn't exited the underlying Pool but migrated from the V**1 Farm** to the V**2 Farm**.
+This is because it didn't exited the underlying Pool but migrated from the **V1 Farm** to the **V2 Farm**.
