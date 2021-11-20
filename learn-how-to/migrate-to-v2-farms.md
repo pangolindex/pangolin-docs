@@ -38,17 +38,17 @@ After clicking “**Migrate Now**” the Pangolin Migration Wizard will pop up
 
 ![Pop-up with overview of all your V1 Farms which can be migrated](https://lh5.googleusercontent.com/N3dLjkBbBSrkH7vR5ldkl5qyr0649cL67h4kx5dcNeSrHu77Sji2pcUra8oXPIB\_u\_5qX7-zAkjpWbrWqLwu3Q08VrHa5ccYVKYC2hppy1fR1E2TL8RpTTW1OU1qx2WgnUf9NdOx)
 
-4\. Click on "**Select all**" to migrate all your **V1 Farms** at once _(or one by one)_
+4\. Click on "**Select all**" choose all your **V1 Farms** at once _(or one by one)_
 
 ![The wizard will guide you through the migration of each Farm you’ve selected](https://lh3.googleusercontent.com/yYU0c8t0C-QLPiAWmZTq2cg6K6W6cM7BS0-9dmwIUL674DmNfTg8HbV-Xf7lRad9plEmvdYeOVXMbLhj-8joS-bMbXyNWbEWJoFTNjCsEUoqtINh1aQ\_TzvQUxrBVz89rOWj4qE9)
 
-5\. Click on "**Choose Pool**" ...
+5\. After you selected your farms, click on "**Choose Pool**" ...
 
 ![PNG-WAVAX Pool Unstaking PGL](https://lh6.googleusercontent.com/uG6eSN9F731eVsfVFuEvIc9uxmR4X0xiddibEZqacPf7F9mAfPdTx7LabOr07oVTJQPxeqUTtV3uGx4H6B4MjwzfbAuG7WpqGM7E3I8Ly8Ey1ifyl7pgDKYOcetu6tbB0I-XWT1h)
 
 6\. Click on "**Unstake**" to start the migration process...
 
-&#x20;               ![](https://lh5.googleusercontent.com/tkR49nZxpS5LR4TL3sFYtn-SCZJS8i1mJRPINpZs4LY7\_p9cnz-GaTYJmxCXMUlHVYEP2qGzZEOIbaSPBt6JLtmA0ypgu7zQw0hFafISgZ9I7bQg4nP18lLRN0qnlUFM3XJ6cP9f)![](https://lh4.googleusercontent.com/Ru\_64CTQ8buqshIp-DhTTF3GLw7amCmhhSLsxVDOH6SBK3iYqc3H9yFIWVQGzoztPRpE33GOyIGMK-W-0xNiM4NiKlr382DGuFN4knHCVMUErQR-XqOVvwpDvR6VJSKTj333Q4Td)
+&#x20;                    ![](https://lh5.googleusercontent.com/tkR49nZxpS5LR4TL3sFYtn-SCZJS8i1mJRPINpZs4LY7\_p9cnz-GaTYJmxCXMUlHVYEP2qGzZEOIbaSPBt6JLtmA0ypgu7zQw0hFafISgZ9I7bQg4nP18lLRN0qnlUFM3XJ6cP9f)![](https://lh4.googleusercontent.com/Ru\_64CTQ8buqshIp-DhTTF3GLw7amCmhhSLsxVDOH6SBK3iYqc3H9yFIWVQGzoztPRpE33GOyIGMK-W-0xNiM4NiKlr382DGuFN4knHCVMUErQR-XqOVvwpDvR6VJSKTj333Q4Td)
 
 7\. Click on "**Approve**" for each Pool to stake in **V2 Farms**
 
