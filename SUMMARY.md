@@ -13,6 +13,7 @@
   * [🗳 Governance / Vote](learn-how-to/vote.md)
   * [📈 Analytics](learn-how-to/use-analytics.md)
   * [ℹ Community Forum](learn-how-to/use-the-forum.md)
+  * [🆕 Migrate to V2 Farms](learn-how-to/migrate-to-v2-farms.md)
 * [⚜ Advanced](advanced/README.md)
   * [🧀 Fees](advanced/fees.md)
   * [📊 Pricing](advanced/pricing.md)
