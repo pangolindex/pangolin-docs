@@ -54,6 +54,8 @@ Stake your PGL tokens and earn PNG rewards [\[more\]](learn-how-to/mine-liquidit
 
 Farm PNG here » [https://app.pangolin.exchange/#/png/1](https://app.pangolin.exchange/#/png/1)
 
+NEW V2 FARMS » [https://app.pangolin.exchange/#/png/2](https://app.pangolin.exchange/#/png/2) :fire: :new:
+
 
 
 ### PNG staking :cut\_of\_meat:&#x20;
@@ -93,3 +95,5 @@ Join Forum here » [https://gov.pangolin.exchange/](https://gov.pangolin.exchang
 How to migrate your Legacy V1 Farms to the new V2 Farms [\[more\]](learn-how-to/migrate-to-v2-farms.md)
 
 Migrate Farms here » [https://app.pangolin.exchange/#/pool](https://app.pangolin.exchange/#/pool)
+
+NEW V2 FARMS » [https://app.pangolin.exchange/#/png/2](https://app.pangolin.exchange/#/png/2) :fire: :new:
