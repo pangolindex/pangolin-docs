@@ -20,7 +20,7 @@ No PNG tokens are allocated to the team, investors, advisors, or any sort of ins
 
 The vesting schedule is Algorithmically specified as follows: starting from 256 M tokens for the first four years, the number of tokens distributed halves every additional four years, meaning that the next four years contribute roughly a quarter, and so on. This pattern continues into perpetuity. For reference, during the first four years, roughly 175,342 PNG will be distributed per day to liquidity miners. The full schedule of distribution of PNG in the liquidity mining allocation is shown below:
 
-| **Time**       | Total PNG Distributed | PNG / Day |
+| Time           | Total PNG Distributed | PNG / Day |
 | -------------- | --------------------- | --------- |
 | 0 - 4 years    | 256 M                 | \~ 175 K  |
 | 4 - 8 years    | 128 M                 | \~ 87 K   |
@@ -30,7 +30,49 @@ The vesting schedule is Algorithmically specified as follows: starting from 256 
 | 20 - 24 years  | 8 M                   | \~ 5 K    |
 | 24 - 28 years  | 4 M                   | \~ 2 K    |
 
-### Liquidity Mining Pools
+### V2 Liquidity Mining Pools :new:
+
+| Primary Token | Secondary Token | PNG Multiplier |
+| ------------- | --------------- | -------------- |
+| WAVAX         | PNG             | 30             |
+| PNG           | USDC.e          | 30             |
+| USDT.e        | USDC.e          | 20             |
+| WAVAX         | SPELL           | 20             |
+| WAVAX         | TIME            | 20             |
+| WAVAX         | WBTC.e          | 20             |
+| WAVAX         | DAI.e           | 20             |
+| WAVAX         | USDT.e          | 20             |
+| WAVAX         | WETH.e          | 20             |
+| WAVAX         | USDC.e          | 20             |
+| WAVAX         | LINK.e          | 10             |
+| USDC.e        | DAI.e           | 10             |
+| WAVAX         | KLO             | 10             |
+| WAVAX         | WALBT           | 10             |
+| WAVAX         | JOE             | 10             |
+| WAVAX         | YAK             | 10             |
+| WAVAX         | APEIN           | 10             |
+| WAVAX         | ROCO            | 10             |
+| WAVAX         | XAVA            | 10             |
+| WAVAX         | QI              | 10             |
+| WAVAX         | FRAX            | 10             |
+| WAVAX         | AMPL            | 10             |
+| WAVAX         | SNOB            | 5              |
+| WAVAX         | PEFI            | 5              |
+| WAVAX         | OOE             | 5              |
+| USDT.e        | TUSD            | 5              |
+| WAVAX         | HUSKY           | 5              |
+| WAVAX         | TEDDY           | 5              |
+| WAVAX         | DYP             | 5              |
+| WAVAX         | SPORE           | 5              |
+| WAVAX         | YAY             | 5              |
+| WAVAX         | VEE             | 5              |
+| WAVAX         | WOW             | 5              |
+| WAVAX         | HCT             | 5              |
+| WAVAX         | IMX             | 5              |
+| WAVAX         | INSUR           | 3              |
+| WAVAX         | ORBS            | 2              |
+
+### Liquidity Mining Pools V1
 
 The liquidity mining program started on mainnet launch and is covering the following pools on Pangolin:
 
