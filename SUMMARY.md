@@ -45,3 +45,7 @@
 * [🧑💻 Subgraph](github/subgraph.md)
 * [📒 Governance](github/governance.md)
 * [⚙ API](github/api.md)
+
+***
+
+* [🇹🇷 Türkçe](https://pangolin-1.gitbook.io/tr/)
