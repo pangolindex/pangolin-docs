@@ -12,7 +12,7 @@
   * [🥩 PNG Staking](learn-how-to/stake-png.md)
   * [🗳 Governance / Vote](learn-how-to/vote.md)
   * [📈 Analytics](learn-how-to/use-analytics.md)
-  * [ℹ Community Forum](learn-how-to/use-the-forum.md)
+  * [💬 Community Forum](learn-how-to/use-the-forum.md)
   * [🆕 Migrate to V2 Farms](learn-how-to/migrate-to-v2-farms.md)
 * [⚜ Advanced](advanced/README.md)
   * [🧀 Fees](advanced/fees.md)
@@ -31,7 +31,7 @@
   * [➕ Adding a token to the tokenlist](community-tools/developer-documention/adding-a-token-to-the-tokenlists.md)
   * [🆔 Common Pangolin contracts](community-tools/developer-documention/common-pangolin-contracts.md)
   * [🎱 Adding new pools](community-tools/developer-documention/adding-new-pools.md)
-* [🤝 Multisig](community-tools/multisig.md)
+* [✍ Multisig](community-tools/multisig.md)
 * [🐛 Bug Bounty](community-tools/bug-bounty.md)
 
 ## ☑ Pangolin Verified
@@ -42,7 +42,7 @@
 
 * [🏭 Exchange Contracts](github/exchange-contracts.md)
 * [® Tokenlists](github/tokenlists.md)
-* [🧑💻 Subgraph](github/subgraph.md)
+* [📖 Subgraph](github/subgraph.md)
 * [📒 Governance](github/governance.md)
 * [⚙ API](github/api.md)
 
