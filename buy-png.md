@@ -8,7 +8,7 @@ description: Where to buy PNG tokens
 PNG is the native governance token of the **Pangolin Exchange** and can be used for providing liquidity in Farms or single staking.
 {% endhint %}
 
-#### PNG contract address
+PNG contract address (C-Chain)
 
 ```
 0x60781c2586d68229fde47564546784ab3faca982
