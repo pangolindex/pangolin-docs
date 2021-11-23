@@ -27,14 +27,18 @@ PNG is the native governance token of the **Pangolin Exchange** and can be used 
 
 ## 2. Buy PNG on a CEX
 
-#### PNG is currently listed on 2 centralized exchanges
+#### PNG is currently listed on 3 centralized exchanges
 
-**Gateio PNG-USDT**
+#### Gateio (USDT)
 
 {% embed url="https://www.gate.io/tradepro/PNG_USDT" %}
 
-**Bitmart PNG-USDT**
+#### Bitmart (USDT)
 
 {% embed url="https://www.bitmart.com/trade/en?layout=pro&symbol=PNG_USDT" %}
 click to see the current price
 {% endembed %}
+
+#### **ICRYPEX (USDT, TRY)**
+
+{% embed url="https://www.icrypex.com/en/features/products/pangolin" %}
