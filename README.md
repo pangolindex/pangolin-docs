@@ -14,7 +14,7 @@ Since launching, Pangolin has established itself as a safe, secure, and low-cost
 
 Today, we are excited to announce an overview of **Pangolin V2**. We are targeting the launch of our **new smart contracts** on **November 21st** with deployment on Avalanche Mainnet.
 
-## Overview of Pangolin 2.0
+## Overview of Pangolin V2
 
 * **Improved Tokenomics**, reducing the $PNG emissions schedule, previously **28 years**, to a new **4-year** emissions schedule
 * **Dramatically reduced $PNG supply**, the biggest token burn ever in DeFi’s history. We’ll be **burning 57% of all remaining $PNG tokens**, making them substantially more scarce.
