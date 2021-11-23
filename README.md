@@ -66,14 +66,6 @@ Stake PNG here » [https://app.pangolin.exchange/#/stake/0](https://app.pangolin
 
 
 
-### Analytics :bar\_chart:&#x20;
-
-Pangolin Protocol Analytics with advanced charting tools [\[more\]](learn-how-to/use-analytics.md)
-
-More info here » [https://info.pangolin.exchange/#/home](https://info.pangolin.exchange/#/home)
-
-
-
 ### Governance / Vote :ballot\_box:&#x20;
 
 PNG tokens represent voting shares in Pangolin governance, you can vote on each proposal [\[more\]](learn-how-to/vote.md)
@@ -82,7 +74,15 @@ Vote here » [https://app.pangolin.exchange/#/vote](https://app.pangolin.exchang
 
 
 
-### Community Forum :information\_source:&#x20;
+### Analytics :bar\_chart:&#x20;
+
+Pangolin Protocol Analytics with advanced charting tools [\[more\]](learn-how-to/use-analytics.md)
+
+More info here » [https://info.pangolin.exchange/#/home](https://info.pangolin.exchange/#/home)
+
+
+
+### Community Forum :speech\_balloon:&#x20;
 
 Join the Community Forum and shape the future of Pangolin [\[more\]](learn-how-to/use-the-forum.md)
 
