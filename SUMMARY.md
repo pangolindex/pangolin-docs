@@ -46,6 +46,6 @@
 * [📒 Governance](github/governance.md)
 * [⚙ API](github/api.md)
 
-***
+## 🗣 Languages
 
 * [🇹🇷 Türkçe](https://pangolin-1.gitbook.io/tr/)
