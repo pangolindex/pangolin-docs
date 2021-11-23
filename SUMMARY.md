@@ -3,7 +3,7 @@
 ## ✌ V2
 
 * [🎬 Introducing Pangolin V2](README.md)
-* [🧑🌾 V2 Farms & Multipliers](v2/v2-farms-and-multipliers.md)
+  * [🧑🌾 V2 Farms & Multipliers](v2/introducing-pangolin-v2/v2-farms-and-multipliers.md)
 
 ***
 

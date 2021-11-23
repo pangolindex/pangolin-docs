@@ -1,8 +1,8 @@
 ---
-description: A brief summary of the new Pangolin V2 Tokenomics
+description: A brief summary of the Pangolin V2 Tokenomics
 ---
 
-# 🌟 Introducing Pangolin V2
+# 🎬 Introducing Pangolin V2
 
 {% embed url="https://youtu.be/XNutIHqKgKY" %}
 
@@ -24,4 +24,4 @@ Today, we are excited to announce an overview of Pangolin V2. We are targeting t
 
 We will be releasing further updates, additional information, and initial documentation over the coming days and welcome all feedback and involvement from the community.
 
-**Pangolin Team**![PNG icon](https://pangolin.exchange/icon.svg)
+****![PNG icon](https://pangolin.exchange/icon.svg) **Pangolin Team**
