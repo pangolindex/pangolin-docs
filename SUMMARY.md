@@ -38,6 +38,10 @@
 
 * [🛡 Security Audits](pangolin-verified/security.md)
 
+## ⭐ V2
+
+* [✌ Introducing Pangolin V2](v2/introducing-pangolin-v2.md)
+
 ## 👩💻 Pangolin Github <a href="github" id="github"></a>
 
 * [🏭 Exchange Contracts](github/exchange-contracts.md)
