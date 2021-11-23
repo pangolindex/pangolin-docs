@@ -27,7 +27,7 @@
 
 ## 🛠 Community Tools
 
-* [📒 Developer Documention](community-tools/developer-documention/README.md)
+* [💡 Developer Documention](community-tools/developer-documention/README.md)
   * [➕ Adding a token to the tokenlist](community-tools/developer-documention/adding-a-token-to-the-tokenlists.md)
   * [🆔 Common Pangolin contracts](community-tools/developer-documention/common-pangolin-contracts.md)
   * [🎱 Adding new pools](community-tools/developer-documention/adding-new-pools.md)
