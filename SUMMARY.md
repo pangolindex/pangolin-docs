@@ -38,9 +38,9 @@
 
 * [🛡 Security Audits](pangolin-verified/security.md)
 
-## ⭐ V2
+## ✌ V2
 
-* [✌ Introducing Pangolin V2](v2/introducing-pangolin-v2.md)
+* [🌟 Introducing Pangolin V2](v2/introducing-pangolin-v2.md)
 
 ## 👩💻 Pangolin Github <a href="github" id="github"></a>
 
