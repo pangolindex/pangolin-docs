@@ -1,4 +1,4 @@
-# 🤝 Multisig
+# ✍ Multisig
 
 ## Create a new Multisig
 

@@ -1,99 +1,27 @@
 ---
-description: Scale your DeFi trading with premier DEX on Avalanche
+description: A brief summary of the new Pangolin V2 Tokenomics
 ---
 
-# 🟨 Welcome to Pangolin
+# 🌟 Introducing Pangolin V2
 
-![](<.gitbook/assets/logo (2) (1).png>)
+{% embed url="https://youtu.be/XNutIHqKgKY" %}
 
+## Introduction <a href="introduction" id="introduction"></a>
 
+Pangolin V1 was launched in February 2021 as a proven concept for automated market makers (AMMs), native to the Avalanche network. Avalanche is the fastest smart contracts platform in the blockchain industry, as measured by time-to-finality. It is low cost and is environmentally friendly.
 
-### About
+Since launching, Pangolin has established itself as a safe, secure, and low-cost decentralized exchange and the premier DEX on Avalanche. Less than one year since its launch, the Pangolin V1 DEX has facilitated over $8.7 billion dollars in trading volume, and serves as a central piece of DeFi infrastructure in the ecosystem.
 
-Pangolin is a decentralized exchange (DEX) on Avalanche Blockchain, uses the same automated market-making (AMM) model as [Uniswap](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works), features a native governance token called PNG that is fully community distributed and is capable of trading all tokens issued on Ethereum and Avalanche. In a crowded marketplace with multiple contenders, Pangolin offers three critically important benefits: fast and cheap trades, community-driven development, and a fair and open token distribution.
+Today, we are excited to announce an overview of Pangolin V2. We are targeting the launch of our new smart contracts on November 21st with deployment on Avalanche Mainnet.
 
-First, Pangolin can finalize trades quickly and cheaply. Since Pangolin is built on Avalanche, it enables users to swap assets while enjoying sub-second transaction finality and transaction fees as low as a few cents. Oftentimes, trades on Pangolin will feel as fast as trades on centralized exchanges.&#x20;
+## Overview of Pangolin 2.0
 
-Second, beyond the significant performance upgrades to the technical status quo, Pangolin is community-driven. The native governance token, PNG, enables the community to drive the development of the product in full.&#x20;
+* **Improved Tokenomics**, reducing the $PNG emissions schedule, previously 28 years, to a new 4-year emissions schedule
+* **Dramatically reduced $PNG supply**, the biggest token burn ever in DeFi’s history. We’ll be burning 57% of all remaining $PNG tokens, making them substantially more scarce.
+* **Liquidity Provider Optimization**, enabled by making our smart contracts even smarter, allowing Pangolin to now offer even higher incentives to liquidity providers
+* **Additional LP Rewards**, Pangolin will distribute the $4 Million USD of PNG tokens as rewards to liquidity providers in priority farms during the next 30 days to celebrate Pangolin V2
+* **A new UX**, releasing phase 1 of a redesigned UI, including a migration tool to help users migrate from old pools to the new Pangolin pools. Phase 2 of our redesigned UI will cover the entire Dapp UI.
 
-Third, but not least, Pangolin features a 100% community-focused token distribution model, meaning that all tokens are distributed directly to the community, without any allocations to team, advisors, investors, or insiders.
+We will be releasing further updates, additional information, and initial documentation over the coming days and welcome all feedback and involvement from the community.
 
-## Pangolin dApps
-
-
-
-### **Swap Tokens **:coin:&#x20;
-
-Swap Avalanche tokens with fast finality and low transaction fees [\[more\]](learn-how-to/swap-tokens.md)
-
-Swap tokens here » [https://app.pangolin.exchange/#/swap](https://app.pangolin.exchange/#/swap)
-
-
-
-### Buy with Credit Card :credit\_card:&#x20;
-
-Pangolin DEX supports payments with Credit Card and Apple Pay™ [\[more\]](learn-how-to/buy-with-credit-card/)
-
-![](.gitbook/assets/visa-logo.png) ![](.gitbook/assets/mc-logo-52.svg) ![](https://app.pangolin.exchange/static/media/Apple\_Pay\_Mark\_RGB\_041619.fe4f01ad.svg)
-
-Buy AVAX here » [https://app.pangolin.exchange/#/buy](https://app.pangolin.exchange/#/buy)
-
-
-
-### Providing Liquidity :aquarius:&#x20;
-
-Add Liquidity and earn 0.25% fee on all trades proportional to the share of the pool [\[more\]](learn-how-to/stake-liquidity.md)
-
-Add liquidity here » [https://app.pangolin.exchange/#/pool](https://app.pangolin.exchange/#/pool)
-
-
-
-### Liquidity Mining :pick:&#x20;
-
-Stake your PGL tokens and earn PNG rewards [\[more\]](learn-how-to/mine-liquidity.md)
-
-Farm PNG here » [https://app.pangolin.exchange/#/png/1](https://app.pangolin.exchange/#/png/1)
-
-NEW V2 FARMS » [https://app.pangolin.exchange/#/png/2](https://app.pangolin.exchange/#/png/2) :fire: :new:
-
-
-
-### PNG staking :cut\_of\_meat:&#x20;
-
-PNG single staking (without IL) earn AVAX, OOE, APEIN rewards [\[more\]](learn-how-to/stake-png.md)
-
-Stake PNG here » [https://app.pangolin.exchange/#/stake/0](https://app.pangolin.exchange/#/stake/0)
-
-
-
-### Governance / Vote :ballot\_box:&#x20;
-
-PNG tokens represent voting shares in Pangolin governance, you can vote on each proposal [\[more\]](learn-how-to/vote.md)
-
-Vote here » [https://app.pangolin.exchange/#/vote](https://app.pangolin.exchange/#/vote)
-
-
-
-### Analytics :bar\_chart:&#x20;
-
-Pangolin Protocol Analytics with advanced charting tools [\[more\]](learn-how-to/use-analytics.md)
-
-More info here » [https://info.pangolin.exchange/#/home](https://info.pangolin.exchange/#/home)
-
-
-
-### Community Forum :speech\_balloon:&#x20;
-
-Join the Community Forum and shape the future of Pangolin [\[more\]](learn-how-to/use-the-forum.md)
-
-Join Forum here » [https://gov.pangolin.exchange/](https://gov.pangolin.exchange)
-
-
-
-### Migrate to V2 Farms :new:
-
-How to migrate your Legacy V1 Farms to the new V2 Farms [\[more\]](learn-how-to/migrate-to-v2-farms.md)
-
-Migrate Farms here » [https://app.pangolin.exchange/#/pool](https://app.pangolin.exchange/#/pool)
-
-NEW V2 FARMS » [https://app.pangolin.exchange/#/png/2](https://app.pangolin.exchange/#/png/2) :fire: :new:
+**Pangolin Team**![PNG icon](https://pangolin.exchange/icon.svg)

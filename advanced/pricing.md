@@ -2,7 +2,7 @@
 description: Learn how prices are determined
 ---
 
-# 📊 Pricing
+# 🔢 Pricing
 
 ## How are prices determined?
 

@@ -2,7 +2,7 @@
 description: Subgraph schema for querying the Pangolin exchange contracts
 ---
 
-# Subgraph
+# 📖 Subgraph
 
 ## Pangolin Subgraph
 
@@ -52,7 +52,7 @@ These contain specifc information about a transaction. Things like which pair tr
 
 This query fetches aggredated data from all Pangolin pairs and tokens, to give a view into how much activity is happening within the whole protocol.
 
-```text
+```
 {
   pangolinFactories(first: 1) {
     pairCount
@@ -63,6 +63,3 @@ This query fetches aggredated data from all Pangolin pairs and tokens, to give a
 ```
 
 {% embed url="https://github.com/pangolindex/subgraph" %}
-
-
-

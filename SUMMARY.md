@@ -1,6 +1,12 @@
 # Table of contents
 
-* [🟨 Welcome to Pangolin](README.md)
+## ✌ V2
+
+* [🌟 Introducing Pangolin V2](README.md)
+
+***
+
+* [🟨 Welcome to Pangolin](<README (1).md>)
 * [💛 Pangonomics](pangonomics.md)
 * [🟡 Learn how to](learn-how-to/README.md)
   * [🪙 Swap Tokens](learn-how-to/swap-tokens.md)
@@ -37,10 +43,6 @@
 ## ☑ Pangolin Verified
 
 * [🛡 Security Audits](pangolin-verified/security.md)
-
-## ✌ V2
-
-* [🌟 Introducing Pangolin V2](v2/introducing-pangolin-v2.md)
 
 ## 👩💻 Pangolin Github <a href="github" id="github"></a>
 
