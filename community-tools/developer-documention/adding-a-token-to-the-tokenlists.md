@@ -2,7 +2,7 @@
 
 ### **Adding a token logo**
 
-1\. Add a folder here with check-summed token address https://github.com/pangolindex/tokens/tree/main/assets
+1\. Add a folder here with check-summed token address [`https://github.com/pangolindex/tokens/tree/main/assets`](https://github.com/pangolindex/tokens/tree/main/assets)``
 
 2\. Add a logo file called “logo.png”
 
@@ -10,7 +10,7 @@
 
 **Adding a token to the tokenlists**
 
-1\. Edit this file https://github.com/pangolindex/tokenlists/blob/main/defi.tokenlist.json
+1\. Edit this file [`https://github.com/pangolindex/tokenlists/blob/main/defi.tokenlist.json`](https://github.com/pangolindex/tokenlists/blob/main/defi.tokenlist.json)``
 
 2\. Update minor version and timestamp
 
