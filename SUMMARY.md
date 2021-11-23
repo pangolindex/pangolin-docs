@@ -8,7 +8,7 @@
 ***
 
 * [🟨 Welcome to Pangolin](<README (1).md>)
-* [💛 Pangonomics](pangonomics.md)
+* [💛 Pangonomics V1](pangonomics.md)
 * [🟡 Learn how to](learn-how-to/README.md)
   * [🪙 Swap Tokens](learn-how-to/swap-tokens.md)
   * [💳 Buy with Credit Card](learn-how-to/buy-with-credit-card/README.md)
