@@ -16,7 +16,7 @@
   * [🆕 Migrate to V2 Farms](learn-how-to/migrate-to-v2-farms.md)
 * [⚜ Advanced](advanced/README.md)
   * [🧀 Fees](advanced/fees.md)
-  * [📊 Pricing](advanced/pricing.md)
+  * [🔢 Pricing](advanced/pricing.md)
 * [🔺 Avalanche Guides](avalanche-guides/README.md)
   * [🦊 Set Up MetaMask](avalanche-guides/set-up-metamask.md)
   * [💰 Fund Your MetaMask](avalanche-guides/fund-your-metamask.md)
@@ -30,7 +30,7 @@
 * [📒 Developer Documention](community-tools/developer-documention/README.md)
   * [➕ Adding a token to the tokenlist](community-tools/developer-documention/adding-a-token-to-the-tokenlists.md)
   * [🆔 Common Pangolin contracts](community-tools/developer-documention/common-pangolin-contracts.md)
-  * [Adding new pools](community-tools/developer-documention/adding-new-pools.md)
+  * [🎱 Adding new pools](community-tools/developer-documention/adding-new-pools.md)
 * [🤝 Multisig](community-tools/multisig.md)
 * [🐛 Bug Bounty](community-tools/bug-bounty.md)
 
