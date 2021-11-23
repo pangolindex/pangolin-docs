@@ -32,6 +32,10 @@ The vesting schedule is Algorithmically specified as follows: starting from 256 
 
 ### Liquidity Mining Pools V2 :new:
 
+{% hint style="success" %}
+List updated 11/23/2021
+{% endhint %}
+
 | Primary Token | Secondary Token | PNG Multiplier |
 | ------------- | --------------- | -------------- |
 | WAVAX         | PNG             | 30             |
