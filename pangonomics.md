@@ -30,7 +30,7 @@ The vesting schedule is Algorithmically specified as follows: starting from 256 
 | 20 - 24 years  | 8 M                   | \~ 5 K    |
 | 24 - 28 years  | 4 M                   | \~ 2 K    |
 
-### V2 Liquidity Mining Pools :new:
+### Liquidity Mining Pools V2 :new:
 
 | Primary Token | Secondary Token | PNG Multiplier |
 | ------------- | --------------- | -------------- |
