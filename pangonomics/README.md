@@ -1,6 +1,6 @@
 ---
 description: PNG Tokenomics
-cover: .gitbook/assets/hero.png
+cover: ../.gitbook/assets/hero.png
 coverY: 0
 ---
 
@@ -14,7 +14,7 @@ To reinforce the project’s commitment to being created solely for the benefit 
 
 No PNG tokens are allocated to the team, investors, advisors, or any sort of insiders. Therefore, Pangolin is entirely community-driven and entirely community-owned. PNG is capped at a supply of 538 million tokens, 100% of which will be distributed to the community according to Chart 1. The first 95% of tokens, or 512 million tokens, are dedicated to the community treasury, where they will initially be used to fund liquidity mining. The remaining 5%, or 26 million tokens, are dedicated to a community airdrop.
 
-![](.gitbook/assets/distribution.png)
+![](../.gitbook/assets/distribution.png)
 
 ### **Community - Liquidity Mining Allocation (95% of PNG)**
 
