@@ -1,5 +1,5 @@
 ---
-description: Improvement Proposal
+description: New Tokenomics Improvement Proposal
 ---
 
 # 📌 Pangonomics V2 Proposal
@@ -103,17 +103,10 @@ Our proposed Emissions Schedule will look similar to the below:
 
 ## How will this occur?
 
-I’ll summarise the key milestones for non technical people and then from there expand into some of the details:
-
 * An on chain governance proposal will be loaded (tentatively scheduled for 11th October 2021)
 * If the on chain proposal passes, then the emissions schedule as proposed above will be implemented
-* New [universal guidelines 34](ug-for-png-rewards.md) for the new PNG distribution will be loaded
-
-The way we do this can get a little technical, but for full transparency I think it’s important we provide an overview here:
-
+* New [universal guidelines 34](new-reward-guidelines.md) for the new PNG distribution will be loaded
 * We will code a Proxy contract. Our current [Vesting contract 11](https://cchain.explorer.avax.network/address/0x6747AC215dAFfeE03a42F49FebB6ab448E12acEe/transactions) will then push all PNG emissions to this Proxy contract
 * The Proxy contract will then divert some PNG to the Foundation and the rest of the PNG to a new LiquidityPool contract. All PNG emitted after the 4 years elapses will be burnt.
 * We haven’t finalised the design of the new LiquidityPool contract, but are currently investigating whether a variant of MasterChef or a new contract will make more sense logistically
 * These contracts will then be audited by Halborn
-
-\

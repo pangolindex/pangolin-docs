@@ -1,8 +1,8 @@
 ---
-description: Universal Guidelines
+description: Universal Guidelines for PNG rewards
 ---
 
-# 🦮 UG for PNG rewards
+# 🦮 New Reward Guidelines
 
 **Community Feedback**\
 Recent feedback from a Telegram poll showed that the community is in favor of transitioning to Universal Guidelines for PNG rewards (66% votes) instead of the current Snapshot Voting (34% votes), based on results from 116 voters.\
