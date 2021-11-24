@@ -1,13 +1,13 @@
 # Table of contents
 
-## ✌ V2
+## ✌ Welcome
 
 * [🎬 Introducing Pangolin V2](README.md)
-  * [🧑🌾 V2 Farms & Multipliers](v2/introducing-pangolin-v2/v2-farms-and-multipliers.md)
+  * [🧑🌾 V2 Farms & Multipliers](welcome/introducing-pangolin-v2/v2-farms-and-multipliers.md)
 
 ***
 
-* [🟨 Welcome to Pangolin](<README (1).md>)
+* [🟨 About Pangolin](<README (1).md>)
 * [💛 Pangonomics V1](pangonomics.md)
 * [🟡 Learn how to](learn-how-to/README.md)
   * [🪙 Swap Tokens](learn-how-to/swap-tokens.md)

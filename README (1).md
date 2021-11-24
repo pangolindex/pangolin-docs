@@ -1,14 +1,14 @@
 ---
-description: Scale your DeFi trading with premier DEX on Avalanche
+description: A premier DEX on the Avalanche. From the community - For the community.
 ---
 
-# 🟨 Welcome to Pangolin
+# 🟨 About Pangolin
 
-![](<.gitbook/assets/logo (2) (1).png>)
+![Scale your DeFi trading with premier DEX on Avalanche](<.gitbook/assets/logo (2) (1).png>)
 
 
 
-### About
+### Who we are...
 
 Pangolin is a decentralized exchange (DEX) on Avalanche Blockchain, uses the same automated market-making (AMM) model as [Uniswap](https://docs.uniswap.org/protocol/V2/concepts/protocol-overview/how-uniswap-works), features a native governance token called PNG that is fully community distributed and is capable of trading all tokens issued on Ethereum and Avalanche. In a crowded marketplace with multiple contenders, Pangolin offers three critically important benefits: fast and cheap trades, community-driven development, and a fair and open token distribution.
 
