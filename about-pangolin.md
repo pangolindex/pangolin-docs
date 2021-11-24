@@ -1,10 +1,10 @@
 ---
-description: A premier DEX on the Avalanche. From the community - For the community.
+description: A premier DEX on Avalanche. From the community - For the community.
 ---
 
 # 🟨 About Pangolin
 
-![Scale your DeFi trading with premier DEX on Avalanche](<.gitbook/assets/logo (2) (1).png>)
+![Scale your DeFi trading.](<.gitbook/assets/logo (2) (1).png>)
 
 
 

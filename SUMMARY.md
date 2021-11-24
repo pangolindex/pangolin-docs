@@ -7,7 +7,7 @@
 
 ***
 
-* [🟨 About Pangolin](<README (1).md>)
+* [🟨 About Pangolin](about-pangolin.md)
 * [💛 Pangonomics V1](pangonomics.md)
 * [🟡 Learn how to](learn-how-to/README.md)
   * [🪙 Swap Tokens](learn-how-to/swap-tokens.md)
