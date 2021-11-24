@@ -1,4 +1,8 @@
-# 📌 Pangolin V2 Tokenomics Improvement Proposal
+---
+description: Improvement Proposal
+---
+
+# 📌 Pangonomics V2 Proposal
 
 [https://gov.pangolin.exchange/t/pangolin-tokenomics-improvement-proposal/1807](https://gov.pangolin.exchange/t/pangolin-tokenomics-improvement-proposal/1807)
 
@@ -96,3 +100,20 @@ Our proposed Emissions Schedule will look similar to the below:
 ![](https://aws1.discourse-cdn.com/standard11/uploads/png/optimized/1X/254737896835045b512c9d804406525f843d1ac9\_2\_602x372.png)
 
 ![](https://aws1.discourse-cdn.com/standard11/uploads/png/optimized/1X/13c4534d8c9b91dae3cad7defcde606177249ea0\_2\_602x372.png)
+
+## How will this occur?
+
+I’ll summarise the key milestones for non technical people and then from there expand into some of the details:
+
+* An on chain governance proposal will be loaded (tentatively scheduled for 11th October 2021)
+* If the on chain proposal passes, then the emissions schedule as proposed above will be implemented
+* New [universal guidelines 34](ug-for-png-rewards.md) for the new PNG distribution will be loaded
+
+The way we do this can get a little technical, but for full transparency I think it’s important we provide an overview here:
+
+* We will code a Proxy contract. Our current [Vesting contract 11](https://cchain.explorer.avax.network/address/0x6747AC215dAFfeE03a42F49FebB6ab448E12acEe/transactions) will then push all PNG emissions to this Proxy contract
+* The Proxy contract will then divert some PNG to the Foundation and the rest of the PNG to a new LiquidityPool contract. All PNG emitted after the 4 years elapses will be burnt.
+* We haven’t finalised the design of the new LiquidityPool contract, but are currently investigating whether a variant of MasterChef or a new contract will make more sense logistically
+* These contracts will then be audited by Halborn
+
+\

@@ -1,10 +1,10 @@
 ---
-description: PNG Tokenomics
+description: PNG Tokenomics V1
 cover: .gitbook/assets/hero.png
 coverY: 0
 ---
 
-# 💛 Pangonomics V1
+# 💛 Pangonomics
 
 ## Distribution: A 100% Community-Driven Governance Token
 
