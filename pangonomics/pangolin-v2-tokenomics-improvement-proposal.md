@@ -1,4 +1,4 @@
-# Pangolin V2 Tokenomics Improvement Proposal
+# 📌 Pangolin V2 Tokenomics Improvement Proposal
 
 [https://gov.pangolin.exchange/t/pangolin-tokenomics-improvement-proposal/1807](https://gov.pangolin.exchange/t/pangolin-tokenomics-improvement-proposal/1807)
 
