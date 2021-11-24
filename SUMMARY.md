@@ -1,12 +1,11 @@
 # Table of contents
 
-## ✌ Welcome
-
-* [🎬 Introducing Pangolin V2](README.md)
-  * [🧑🌾 V2 Farms & Multipliers](welcome/introducing-pangolin-v2/v2-farms-and-multipliers.md)
+## 🙌 Welcome
 
 ***
 
+* [🎬 Introducing Pangolin V2](README.md)
+  * [🧑🌾 V2 Farms & Multipliers](introducing-pangolin-v2/v2-farms-and-multipliers.md)
 * [🟨 About Pangolin](about-pangolin.md)
 * [💛 Pangonomics V1](pangonomics.md)
 * [🟡 Learn how to](learn-how-to/README.md)
