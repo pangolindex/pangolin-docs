@@ -45,8 +45,9 @@
 ## ☑ Pangolin Verified
 
 * [🛡 Security Audits](pangolin-verified/security.md)
+* [🔐 Multisig Members](pangolin-verified/multisig-members.md)
 
-## 👩💻 Pangolin Github <a href="github" id="github"></a>
+## 👩💻 Pangolin Github <a href="#github" id="github"></a>
 
 * [🏭 Exchange Contracts](github/exchange-contracts.md)
 * [® Tokenlists](github/tokenlists.md)
