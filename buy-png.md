@@ -27,7 +27,7 @@ PNG contract address (C-Chain)
 
 ## 2. Buy PNG on a CEX
 
-#### PNG is currently listed on 3 centralized exchanges
+#### PNG is currently listed on 4 centralized exchanges
 
 #### Gateio (USDT)
 
@@ -42,3 +42,7 @@ click to see the current price
 #### **ICRYPEX (USDT, TRY)**
 
 {% embed url="https://www.icrypex.com/en/features/products/pangolin" %}
+
+#### MEXC (USDT)
+
+{% embed url="https://www.mexc.com/exchange/PNG_USDT" %}
